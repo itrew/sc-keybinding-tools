@@ -1,0 +1,23 @@
+# build outputs
+/build
+
+# dev outputs
+/.svelte-kit
+
+# dependencies
+node_modules
+
+# environment variables
+.env
+.env.*
+
+# macOS-specific files
+.DS_Store
+
+# pnpm, npm and yarn
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# other
+/package
