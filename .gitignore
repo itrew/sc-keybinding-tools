@@ -22,3 +22,4 @@ node_modules
 *.db
 logs/
 .vscode
+unp4k/
