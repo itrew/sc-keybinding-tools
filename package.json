@@ -16,6 +16,7 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
+		"unpack": "bash ./bin/unpack_data.sh",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
