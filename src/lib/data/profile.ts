@@ -19,7 +19,7 @@ export type ActionMapXML = {
 	$_version: string;
 	$_UILabel: string;
 	$_UICategory: string;
-	action: ActionXML[];
+	action: ActionXML[] | ActionXML;
 };
 
 export type ProfileXML = {
