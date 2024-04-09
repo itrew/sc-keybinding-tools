@@ -37,4 +37,4 @@ export const getLiveGameData = () => {
 	);
 	const liveGameData: LiveActionMapsXML = parser.parse(fileContents);
 	return liveGameData;
-}
+};
