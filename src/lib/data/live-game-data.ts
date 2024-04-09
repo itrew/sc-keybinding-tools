@@ -30,10 +30,11 @@ const parser = new XMLParser({
 	attributeNamePrefix: '$_',
 });
 
-// Read the xml contents of the default profile into a buffer.
-const fileContents = readFileSync(
-	'Y:/Roberts Space Industries/StarCitizen/LIVE/USER/Client/0/Profiles/default/actionmaps.xml',
-);
-
-// Parse the xml profile file into an object.
-export const liveGameData: LiveActionMapsXML = parser.parse(fileContents);
+export const getLiveGameData = () => {
+	// Read the xml contents of the default profile into a buffer.
+	const fileContents = readFileSync(
+		'Y:/Roberts Space Industries/StarCitizen/LIVE/USER/Client/0/Profiles/default/actionmaps.xml',
+	);
+	const liveGameData: LiveActionMapsXML = parser.parse(fileContents);
+	return liveGameData;
+}

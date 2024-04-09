@@ -3,7 +3,7 @@ import path from 'path';
 
 import { langLookupUI } from './lang';
 import { defaultProfile, type ActionMapXML, type ActionXML } from './profile';
-import { liveGameData, type LiveActionMapXML, type LiveActionXML } from './live-game-data';
+import { getLiveGameData, type LiveActionMapXML, type LiveActionXML } from './live-game-data';
 import data from './processed-files/actionData.json';
 
 type InputType = string;
@@ -154,6 +154,8 @@ export const updateDataFromLiveData = (
 	inputDevice: 'mouse' | 'keyboard' | 'gamepad' | 'joystick',
 	actionMapName: string,
 ) => {
+	const liveGameData = getLiveGameData();
+
 	let liveActionMapXml: LiveActionMapXML;
 
 	if (Array.isArray(liveGameData.ActionMaps.ActionProfiles.actionmap)) {
