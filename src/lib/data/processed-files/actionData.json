@@ -4077,7 +4077,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": null
 		},
