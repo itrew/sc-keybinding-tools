@@ -22,7 +22,8 @@
 		<div class="col-start-6 border-b border-b-black">Joystick</div>
 		{#each actionMap.actions as action, index}
 			<div
-				class="col-span-2 col-start-1 row-start-{index + 2} m-0.5 select-none px-2 py-0.5 flex justify-between"
+				class="col-span-2 col-start-1 row-start-{index +
+					2} m-0.5 flex select-none justify-between px-2 py-0.5"
 				title={action.name}
 			>
 				{action.attributes.labelLocal || action.name}
