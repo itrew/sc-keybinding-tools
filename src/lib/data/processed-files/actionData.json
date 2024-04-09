@@ -2542,7 +2542,7 @@
 			"categoryLocal": "@ui_CCSeatGeneral"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": null
 		},
@@ -2561,9 +2561,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2580,7 +2580,7 @@
 			"categoryLocal": "@ui_CCSeatGeneral"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": null
 		},
@@ -2599,9 +2599,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2620,9 +2620,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2641,9 +2641,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2660,7 +2660,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": null
 		},
@@ -2679,9 +2679,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2700,9 +2700,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2721,9 +2721,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2742,9 +2742,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2763,9 +2763,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2784,9 +2784,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2805,9 +2805,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2826,9 +2826,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2847,9 +2847,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2868,9 +2868,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2889,9 +2889,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2910,9 +2910,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2931,9 +2931,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2952,9 +2952,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2973,9 +2973,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -2994,9 +2994,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3015,9 +3015,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3036,9 +3036,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3057,9 +3057,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3078,9 +3078,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3099,9 +3099,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3120,9 +3120,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3139,7 +3139,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": null
 		},
@@ -3158,9 +3158,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3179,9 +3179,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3200,9 +3200,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3221,9 +3221,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3242,9 +3242,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3263,9 +3263,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3284,9 +3284,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3305,9 +3305,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3326,9 +3326,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3347,9 +3347,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3368,9 +3368,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3389,9 +3389,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3410,9 +3410,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3431,9 +3431,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3452,9 +3452,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3473,9 +3473,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3494,9 +3494,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3515,9 +3515,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3536,9 +3536,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3557,9 +3557,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
@@ -3578,9 +3578,9 @@
 					"joystick": ""
 				},
 				"info": {
-					"inputType": null,
-					"mouseBindable": null,
-					"keyboardBindable": null,
+					"inputType": "button",
+					"mouseBindable": true,
+					"keyboardBindable": true,
 					"gamepadBindable": null,
 					"joystickBindable": null
 				}
