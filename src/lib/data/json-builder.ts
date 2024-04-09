@@ -166,6 +166,10 @@ export const updateDataFromLiveData = (
 		liveActionMapXml = liveGameData.ActionMaps.ActionProfiles.actionmap;
 	}
 
+	if (!liveActionMapXml) {
+		return;
+	}
+
 	let actions: LiveActionXML[];
 
 	if (Array.isArray(liveActionMapXml.action)) {
@@ -182,10 +186,25 @@ export const updateDataFromLiveData = (
 
 			if (actionRecord && inputDevice === 'mouse') {
 				actionRecord.info.mouseBindable = true;
+				const rebind = Array.isArray(action.rebind) ? action.rebind[0] : action.rebind;
+				if (rebind.$_input.includes('mouse1')) {
+					actionRecord.info.inputType = 'button';
+				} else if (rebind.$_input.includes('maxis')) {
+					actionRecord.info.inputType = 'axis';
+				}
 			}
 
 			if (actionRecord && inputDevice === 'keyboard') {
 				actionRecord.info.keyboardBindable = true;
+			}
+		});
+
+		actionMapRecord.actions.forEach((a) => {
+			if (inputDevice === 'mouse' && a.info.mouseBindable === null) {
+				a.info.mouseBindable = false;
+			}
+			if (inputDevice === 'keyboard' && a.info.keyboardBindable === null) {
+				a.info.keyboardBindable = false;
 			}
 		});
 	}
