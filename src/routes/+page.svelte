@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import ActionMap from '$lib/components/ActionMap.svelte';
+
+	export let data;
+</script>
+
+<div class="m-auto mt-4 max-w-5xl">
+	{#each data.actionData as am}
+		<div class="mb-4">
+			<ActionMap actionMap={am} />
+		</div>
+	{/each}
+</div>
