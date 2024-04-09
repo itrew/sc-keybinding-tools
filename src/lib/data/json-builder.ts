@@ -3,6 +3,7 @@ import path from 'path';
 
 import { langLookupUI } from './lang';
 import { defaultProfile, type ActionMapXML, type ActionXML } from './profile';
+import { liveGameData, type LiveActionMapXML, type LiveActionXML } from './live-game-data';
 import data from './processed-files/actionData.json';
 
 type InputType = string;
@@ -52,14 +53,14 @@ const typedData: ActionMapData[] = data;
 
 // Load an action map from the saved data.
 const getActionMap = (actionMapName: string): ActionMapData | undefined => {
-	return typedData.find(actionMap => actionMap.name === actionMapName);
+	return typedData.find((actionMap) => actionMap.name === actionMapName);
 };
 
 // Load an action from the saved data.
 const getAction = (actionMapName: string, actionName: string): ActionData | undefined => {
 	const actionMap = getActionMap(actionMapName);
 	if (actionMap) {
-		return actionMap.actions.find(action => action.name === actionName);
+		return actionMap.actions.find((action) => action.name === actionName);
 	}
 };
 
@@ -67,19 +68,21 @@ const getAction = (actionMapName: string, actionName: string): ActionData | unde
 const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionData => {
 	const actionData = getAction(actionMapName, actionXml.$_name);
 
-	const actionInfo = actionData ? {
-		inputType: actionData.info.inputType,
-		mouseBindable: actionData.info.mouseBindable,
-		keyboardBindable: actionData.info.keyboardBindable,
-		gamepadBindable: actionData.info.gamepadBindable,
-		joystickBindable: actionData.info.joystickBindable,
-	} : {
-		inputType: null,
-		mouseBindable: null,
-		keyboardBindable: null,
-		gamepadBindable: null,
-		joystickBindable: null,
-	}
+	const actionInfo = actionData
+		? {
+				inputType: actionData.info.inputType,
+				mouseBindable: actionData.info.mouseBindable,
+				keyboardBindable: actionData.info.keyboardBindable,
+				gamepadBindable: actionData.info.gamepadBindable,
+				joystickBindable: actionData.info.joystickBindable,
+			}
+		: {
+				inputType: null,
+				mouseBindable: null,
+				keyboardBindable: null,
+				gamepadBindable: null,
+				joystickBindable: null,
+			};
 
 	return {
 		name: actionXml.$_name,
@@ -98,28 +101,30 @@ const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionDat
 		},
 		info: actionInfo,
 	};
-}
+};
 
 // Convert an XML parsed action map to a useable object.
 const actionMapXmlToData = (actionMapXml: ActionMapXML): ActionMapData => {
 	const actionMapData = getActionMap(actionMapXml.$_name);
 
-	const actionMapInfo = actionMapData ? {
-		mouseKeyboardVisible: actionMapData.info.mouseKeyboardVisible,
-		gamepadVisible: actionMapData.info.gamepadVisible,
-		joystickVisible: actionMapData.info.joystickVisible,
-	} : {
-		mouseKeyboardVisible: null,
-		gamepadVisible: null,
-		joystickVisible: null,
-	}
+	const actionMapInfo = actionMapData
+		? {
+				mouseKeyboardVisible: actionMapData.info.mouseKeyboardVisible,
+				gamepadVisible: actionMapData.info.gamepadVisible,
+				joystickVisible: actionMapData.info.joystickVisible,
+			}
+		: {
+				mouseKeyboardVisible: null,
+				gamepadVisible: null,
+				joystickVisible: null,
+			};
 
 	let actions: ActionData[] = [];
 
 	if (Array.isArray(actionMapXml.action)) {
-		actions = actionMapXml.action.map(a => actionXmlToData(actionMapXml.$_name, a))
-	} else if (typeof actionMapXml.action === "object") {
-		actions = [actionXmlToData(actionMapXml.$_name, actionMapXml.action)]
+		actions = actionMapXml.action.map((a) => actionXmlToData(actionMapXml.$_name, a));
+	} else if (typeof actionMapXml.action === 'object') {
+		actions = [actionXmlToData(actionMapXml.$_name, actionMapXml.action)];
 	}
 
 	return {
@@ -134,13 +139,52 @@ const actionMapXmlToData = (actionMapXml: ActionMapXML): ActionMapData => {
 		info: actionMapInfo,
 		actions,
 	};
-}
+};
 
-const defaultActionMaps = defaultProfile.profile.actionmap.map(actionMapXmlToData);
+export const actionData = defaultProfile.profile.actionmap.map(actionMapXmlToData);
 
-export const writeDefaultActionMapsToFile = () => {
+export const writeActionDataFile = () => {
 	writeFile(
 		path.resolve(import.meta.dirname, './processed-files/actionData.json'),
-		JSON.stringify(defaultActionMaps, null, '\t'),
+		JSON.stringify(actionData, null, '\t'),
 	);
+};
+
+export const updateDataFromLiveData = (
+	inputDevice: 'mouse' | 'keyboard' | 'gamepad' | 'joystick',
+	actionMapName: string,
+) => {
+	let liveActionMapXml: LiveActionMapXML;
+
+	if (Array.isArray(liveGameData.ActionMaps.ActionProfiles.actionmap)) {
+		liveActionMapXml = liveGameData.ActionMaps.ActionProfiles.actionmap.find(
+			(actionMap) => actionMap.$_name === actionMapName,
+		)!;
+	} else {
+		liveActionMapXml = liveGameData.ActionMaps.ActionProfiles.actionmap;
+	}
+
+	let actions: LiveActionXML[];
+
+	if (Array.isArray(liveActionMapXml.action)) {
+		actions = liveActionMapXml.action;
+	} else {
+		actions = [liveActionMapXml.action];
+	}
+
+	const actionMapData = actionData.find((am) => am.name === actionMapName);
+
+	if (actionMapData) {
+		actions.forEach((action) => {
+			const actionData = actionMapData.actions.find((a) => a.name === action.$_name);
+
+			if (actionData && inputDevice === 'mouse') {
+				actionData.info.mouseBindable = true;
+			}
+
+			if (actionData && inputDevice === 'keyboard') {
+				actionData.info.keyboardBindable = true;
+			}
+		});
+	}
 };
