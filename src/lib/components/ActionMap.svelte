@@ -22,20 +22,18 @@
 		<div class="col-start-6 border-b border-b-black">Joystick</div>
 		{#each actionMap.actions as action, index}
 			<div
-				class="col-span-2 col-start-1 row-start-{index + 2} m-0.5 select-none px-2 py-0.5"
+				class="col-span-2 col-start-1 row-start-{index + 2} m-0.5 select-none px-2 py-0.5 flex justify-between"
 				title={action.name}
 			>
 				{action.attributes.labelLocal || action.name}
 				{#if action.info.inputType}
-					<span class="float-right flex h-full">
-						<img
-							height="20"
-							width="20"
-							class="self-center"
-							alt="input type"
-							src={action.info.inputType === 'axis' ? axesIcon : buttonIcon}
-						/>
-					</span>
+					<img
+						height="20"
+						width="20"
+						class="ml-3 self-center"
+						alt="input type"
+						src={action.info.inputType === 'axis' ? axesIcon : buttonIcon}
+					/>
 				{/if}
 			</div>
 			<div class="col-start-3 {bgColorer(action.info.mouseBindable)} m-0.5 px-2 py-0.5">
