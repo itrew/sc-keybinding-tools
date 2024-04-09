@@ -172,18 +172,18 @@ export const updateDataFromLiveData = (
 		actions = [liveActionMapXml.action];
 	}
 
-	const actionMapData = actionData.find((am) => am.name === actionMapName);
+	const actionMapRecord = actionData.find((am) => am.name === actionMapName);
 
-	if (actionMapData) {
+	if (actionMapRecord) {
 		actions.forEach((action) => {
-			const actionData = actionMapData.actions.find((a) => a.name === action.$_name);
+			const actionRecord = actionMapRecord.actions.find((a) => a.name === action.$_name);
 
-			if (actionData && inputDevice === 'mouse') {
-				actionData.info.mouseBindable = true;
+			if (actionRecord && inputDevice === 'mouse') {
+				actionRecord.info.mouseBindable = true;
 			}
 
-			if (actionData && inputDevice === 'keyboard') {
-				actionData.info.keyboardBindable = true;
+			if (actionRecord && inputDevice === 'keyboard') {
+				actionRecord.info.keyboardBindable = true;
 			}
 		});
 	}
