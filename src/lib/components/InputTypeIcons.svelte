@@ -7,12 +7,12 @@
 	export let deviceInfo: InputInfo;
 </script>
 
-<span class="mr-3 self-center">
+<span class="self-center flex">
 	{#if deviceInfo.button !== false}
 		<img
 			height="20"
 			width="20"
-			class="mr-1 inline"
+			class="mr-1 self-center"
 			alt="button"
 			src={deviceInfo.button ? buttonIcon : unknownIcon}
 		/>
@@ -21,7 +21,7 @@
 		<img
 			height="20"
 			width="20"
-			class="mr-1 inline"
+			class="mr-1 self-center"
 			alt="axis"
 			src={deviceInfo.axis ? axesIcon : unknownIcon}
 		/>
