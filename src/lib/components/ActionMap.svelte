@@ -1,6 +1,5 @@
 <script lang="ts">
-	import axesIcon from '$lib/assets/images/axes.svg';
-	import buttonIcon from '$lib/assets/images/button.svg';
+	import InputTypeIcons from '$lib/components/InputTypeIcons.svelte';
 	import type { ActionMapData } from '$lib/data/json-builder';
 
 	export let actionMap: ActionMapData;
@@ -27,26 +26,37 @@
 				title={action.name}
 			>
 				{action.attributes.labelLocal || action.name}
-				{#if action.info.inputType}
-					<img
-						height="20"
-						width="20"
-						class="ml-3 self-center"
-						alt="input type"
-						src={action.info.inputType === 'axis' ? axesIcon : buttonIcon}
-					/>
-				{/if}
 			</div>
-			<div class="col-start-3 {bgColorer(action.info.mouseBindable)} m-0.5 px-2 py-0.5">
+			<div
+				class="col-start-3 {bgColorer(
+					action.mouse.bindable,
+				)} m-0.5 flex justify-between px-2 py-0.5"
+			>
+				<InputTypeIcons deviceInfo={action.mouse}/>
 				{action.defaultBindings.mouse || ''}
 			</div>
-			<div class="col-start-4 {bgColorer(action.info.keyboardBindable)} m-0.5 px-2 py-0.5">
+			<div
+				class="col-start-4 {bgColorer(
+					action.keyboard.bindable,
+				)} m-0.5 flex justify-between px-2 py-0.5"
+			>
+				<InputTypeIcons deviceInfo={action.keyboard}/>
 				{action.defaultBindings.keyboard || ''}
 			</div>
-			<div class="col-start-5 {bgColorer(action.info.gamepadBindable)} m-0.5 px-2 py-0.5">
+			<div
+				class="col-start-5 {bgColorer(
+					action.gamepad.bindable,
+				)} m-0.5 flex justify-between px-2 py-0.5"
+			>
+				<InputTypeIcons deviceInfo={action.gamepad}/>
 				{action.defaultBindings.gamepad || ''}
 			</div>
-			<div class="col-start-6 {bgColorer(action.info.joystickBindable)} m-0.5 px-2 py-0.5">
+			<div
+				class="col-start-6 {bgColorer(
+					action.joystick.bindable,
+				)} m-0.5 flex justify-between px-2 py-0.5"
+			>
+				<InputTypeIcons deviceInfo={action.joystick}/>
 				{action.defaultBindings.joystick || ''}
 			</div>
 		{/each}

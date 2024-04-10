@@ -4,7 +4,7 @@
 	export let data;
 </script>
 
-<div class="m-auto mt-4 max-w-7xl">
+<div class="m-auto mx-32 mt-4">
 	{#each data.actionData as am}
 		<div class="mb-4">
 			<ActionMap actionMap={am} />

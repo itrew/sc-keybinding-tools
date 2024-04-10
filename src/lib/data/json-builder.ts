@@ -6,7 +6,11 @@ import { defaultProfile, type ActionMapXML, type ActionXML } from './profile';
 import { getLiveGameData, type LiveActionMapXML, type LiveActionXML } from './live-game-data';
 import data from './processed-files/actionData.json';
 
-type InputType = string;
+export type InputInfo = {
+	bindable: boolean | null;
+	button: boolean | null;
+	axis: boolean | null;
+};
 
 export type ActionData = {
 	name: string;
@@ -23,13 +27,10 @@ export type ActionData = {
 		gamepad?: string;
 		joystick?: string;
 	};
-	info: {
-		inputType: InputType | null;
-		mouseBindable: boolean | null;
-		keyboardBindable: boolean | null;
-		gamepadBindable: boolean | null;
-		joystickBindable: boolean | null;
-	};
+	mouse: InputInfo;
+	keyboard: InputInfo;
+	gamepad: InputInfo;
+	joystick: InputInfo;
 };
 
 export type ActionMapData = {
@@ -68,21 +69,11 @@ const getAction = (actionMapName: string, actionName: string): ActionData | unde
 const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionData => {
 	const actionData = getAction(actionMapName, actionXml.$_name);
 
-	const actionInfo = actionData
-		? {
-				inputType: actionData.info.inputType,
-				mouseBindable: actionData.info.mouseBindable,
-				keyboardBindable: actionData.info.keyboardBindable,
-				gamepadBindable: actionData.info.gamepadBindable,
-				joystickBindable: actionData.info.joystickBindable,
-			}
-		: {
-				inputType: null,
-				mouseBindable: null,
-				keyboardBindable: null,
-				gamepadBindable: null,
-				joystickBindable: null,
-			};
+	const blankInputInfo: InputInfo = {
+		bindable: null,
+		button: null,
+		axis: null,
+	};
 
 	return {
 		name: actionXml.$_name,
@@ -99,7 +90,10 @@ const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionDat
 			gamepad: actionXml.$_gamepad,
 			joystick: actionXml.$_joystick,
 		},
-		info: actionInfo,
+		mouse: actionData ? actionData.mouse : blankInputInfo,
+		keyboard: actionData ? actionData.keyboard : blankInputInfo,
+		gamepad: actionData ? actionData.gamepad : blankInputInfo,
+		joystick: actionData ? actionData.joystick : blankInputInfo,
 	};
 };
 
@@ -185,26 +179,28 @@ export const updateDataFromLiveData = (
 			const actionRecord = actionMapRecord.actions.find((a) => a.name === action.$_name);
 
 			if (actionRecord && inputDevice === 'mouse') {
-				actionRecord.info.mouseBindable = true;
+				actionRecord.mouse.bindable = true;
 				const rebind = Array.isArray(action.rebind) ? action.rebind[0] : action.rebind;
 				if (rebind.$_input.includes('mouse')) {
-					actionRecord.info.inputType = 'button';
+					actionRecord.mouse.button = true;
 				} else if (rebind.$_input.includes('maxis')) {
-					actionRecord.info.inputType = 'axis';
+					actionRecord.mouse.axis = true;
+					actionRecord.mouse.button = false;
 				}
 			}
 
 			if (actionRecord && inputDevice === 'keyboard') {
-				actionRecord.info.keyboardBindable = true;
+				actionRecord.keyboard.bindable = true;
+				actionRecord.keyboard.button = true;
 			}
 		});
 
 		actionMapRecord.actions.forEach((a) => {
-			if (inputDevice === 'mouse' && a.info.mouseBindable === null) {
-				a.info.mouseBindable = false;
+			if (inputDevice === 'mouse' && a.mouse.bindable === null) {
+				a.mouse.bindable = false;
 			}
-			if (inputDevice === 'keyboard' && a.info.keyboardBindable === null) {
-				a.info.keyboardBindable = false;
+			if (inputDevice === 'keyboard' && a.keyboard.bindable === null) {
+				a.keyboard.bindable = false;
 			}
 		});
 	}
