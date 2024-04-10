@@ -187,7 +187,7 @@ export const updateDataFromLiveData = (
 			if (actionRecord && inputDevice === 'mouse') {
 				actionRecord.info.mouseBindable = true;
 				const rebind = Array.isArray(action.rebind) ? action.rebind[0] : action.rebind;
-				if (rebind.$_input.includes('mouse1')) {
+				if (rebind.$_input.includes('mouse')) {
 					actionRecord.info.inputType = 'button';
 				} else if (rebind.$_input.includes('maxis')) {
 					actionRecord.info.inputType = 'axis';
