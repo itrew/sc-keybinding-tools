@@ -193,6 +193,17 @@ export const updateDataFromLiveData = (
 				actionRecord.keyboard.bindable = true;
 				actionRecord.keyboard.button = true;
 			}
+
+			if (actionRecord && inputDevice === 'joystick') {
+				actionRecord.joystick.bindable = true;
+				const rebind = Array.isArray(action.rebind) ? action.rebind[0] : action.rebind;
+				if (rebind.$_input.includes('button')) {
+					actionRecord.joystick.button = true;
+				} else if (rebind.$_input.includes('js1_x') || rebind.$_input.includes('js1_y')) {
+					actionRecord.joystick.axis = true;
+					actionRecord.joystick.button = false;
+				}
+			}
 		});
 
 		actionMapRecord.actions.forEach((a) => {
@@ -201,6 +212,9 @@ export const updateDataFromLiveData = (
 			}
 			if (inputDevice === 'keyboard' && a.keyboard.bindable === null) {
 				a.keyboard.bindable = false;
+			}
+			if (inputDevice === 'joystick' && a.joystick.bindable === null) {
+				a.joystick.bindable = false;
 			}
 		});
 	}
