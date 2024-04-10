@@ -42,8 +42,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -76,8 +76,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -110,8 +110,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -144,8 +144,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -178,8 +178,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -212,8 +212,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -246,8 +246,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -280,8 +280,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -314,8 +314,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -348,8 +348,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -398,8 +398,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -432,8 +432,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -466,8 +466,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -496,7 +496,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -530,8 +530,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -564,8 +564,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -598,8 +598,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -632,8 +632,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -666,8 +666,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -700,8 +700,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -734,8 +734,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -768,8 +768,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -802,8 +802,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -836,8 +836,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -865,7 +865,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -894,7 +894,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -923,7 +923,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -952,7 +952,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -981,7 +981,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1032,8 +1032,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1066,8 +1066,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1100,9 +1100,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1133,7 +1133,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1160,7 +1160,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1194,8 +1194,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1228,8 +1228,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1262,9 +1262,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1295,7 +1295,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1322,7 +1322,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1349,7 +1349,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1383,8 +1383,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1412,7 +1412,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1441,7 +1441,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1475,8 +1475,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1510,8 +1510,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1545,8 +1545,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1574,7 +1574,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1608,8 +1608,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1643,9 +1643,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1677,8 +1677,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1711,8 +1711,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1745,9 +1745,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1779,8 +1779,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -1830,8 +1830,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1864,8 +1864,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1898,9 +1898,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1931,7 +1931,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -1965,8 +1965,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -1999,8 +1999,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2033,9 +2033,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2066,7 +2066,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -2100,8 +2100,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2134,8 +2134,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2168,9 +2168,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2201,7 +2201,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -2233,7 +2233,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -2267,8 +2267,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2302,8 +2302,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2337,8 +2337,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2372,9 +2372,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2407,8 +2407,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2442,8 +2442,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2476,9 +2476,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2510,8 +2510,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2545,8 +2545,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2580,8 +2580,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2614,9 +2614,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2648,8 +2648,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2683,8 +2683,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2718,8 +2718,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2752,9 +2752,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2787,8 +2787,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2822,8 +2822,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2856,9 +2856,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2890,8 +2890,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2924,8 +2924,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2958,8 +2958,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -2992,8 +2992,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3026,8 +3026,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3060,8 +3060,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3094,8 +3094,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3128,8 +3128,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3163,9 +3163,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3198,9 +3198,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3232,8 +3232,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3266,8 +3266,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3300,8 +3300,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3334,8 +3334,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3369,9 +3369,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3404,9 +3404,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3438,8 +3438,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3473,8 +3473,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3507,8 +3507,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3541,8 +3541,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3575,8 +3575,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3609,8 +3609,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3643,8 +3643,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3677,8 +3677,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3711,8 +3711,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3745,8 +3745,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3779,8 +3779,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3813,8 +3813,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3847,8 +3847,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3881,8 +3881,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3915,8 +3915,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3949,8 +3949,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -3983,8 +3983,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4017,8 +4017,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4051,8 +4051,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4085,8 +4085,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -4136,8 +4136,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -4187,8 +4187,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4221,8 +4221,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4255,8 +4255,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -4306,8 +4306,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4340,8 +4340,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4374,8 +4374,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4408,8 +4408,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4442,8 +4442,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4476,8 +4476,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4510,8 +4510,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4544,8 +4544,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4578,8 +4578,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4612,8 +4612,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4646,8 +4646,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4680,8 +4680,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4714,8 +4714,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4748,8 +4748,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4782,8 +4782,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4816,8 +4816,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4850,8 +4850,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4884,8 +4884,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4918,8 +4918,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4952,8 +4952,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -4986,8 +4986,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5020,8 +5020,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -5071,8 +5071,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5105,8 +5105,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5139,8 +5139,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5173,8 +5173,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5207,8 +5207,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5241,8 +5241,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5275,8 +5275,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5309,8 +5309,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5343,8 +5343,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5377,8 +5377,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5411,8 +5411,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5445,8 +5445,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5479,8 +5479,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5513,8 +5513,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5547,8 +5547,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5581,8 +5581,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5615,8 +5615,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5649,8 +5649,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5683,8 +5683,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5717,8 +5717,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5751,8 +5751,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -5801,8 +5801,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -5853,8 +5853,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -5904,8 +5904,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5938,8 +5938,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5972,8 +5972,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -5999,7 +5999,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6026,7 +6026,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6053,7 +6053,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6080,7 +6080,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6107,7 +6107,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6134,7 +6134,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6161,7 +6161,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6188,7 +6188,7 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
+					"bindable": false,
 					"button": null,
 					"axis": null
 				}
@@ -6239,8 +6239,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6273,8 +6273,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6307,8 +6307,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6341,8 +6341,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6377,8 +6377,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6412,8 +6412,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6447,8 +6447,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6482,8 +6482,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6517,8 +6517,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
@@ -6568,8 +6568,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6602,8 +6602,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6636,8 +6636,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6671,8 +6671,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6706,8 +6706,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6741,8 +6741,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6776,8 +6776,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6810,8 +6810,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6845,8 +6845,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6878,8 +6878,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6911,8 +6911,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -6945,9 +6945,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -6979,9 +6979,9 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
-					"axis": null
+					"bindable": true,
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -7013,8 +7013,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7048,8 +7048,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7083,8 +7083,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7118,8 +7118,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7153,8 +7153,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7188,8 +7188,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7223,8 +7223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7258,8 +7258,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7293,8 +7293,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7328,8 +7328,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7363,8 +7363,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7398,8 +7398,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7433,8 +7433,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7468,8 +7468,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7503,8 +7503,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7538,8 +7538,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7573,8 +7573,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			},
@@ -7608,8 +7608,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"bindable": null,
-					"button": null,
+					"bindable": true,
+					"button": true,
 					"axis": null
 				}
 			}
