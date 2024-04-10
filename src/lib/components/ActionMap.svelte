@@ -11,7 +11,7 @@
 </script>
 
 <div class="w-full overflow-hidden rounded-lg border">
-	<div class="w-full bg-slate-200 p-2 font-semibold">
+	<div class="w-full {bgColorer(actionMap.info.mouseKeyboardVisible)} p-2 font-semibold">
 		{actionMap.attributes.labelLocal || actionMap.name} - {actionMap.attributes.categoryLocal ||
 			actionMap.attributes.categoryRaw}
 	</div>
