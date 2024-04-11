@@ -3,10 +3,7 @@ import path from 'path';
 
 import { XMLParser } from 'fast-xml-parser';
 
-const parseAsArrayPaths = [
-	"profile.actionmap",
-	"profile.actionmap.action",
-];
+const parseAsArrayPaths = ['profile.actionmap', 'profile.actionmap.action'];
 
 // Configure the parser.
 const parser = new XMLParser({

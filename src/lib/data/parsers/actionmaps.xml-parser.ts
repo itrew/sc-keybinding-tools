@@ -3,9 +3,9 @@ import { readFileSync } from 'fs';
 import { XMLParser } from 'fast-xml-parser';
 
 const parseAsArrayPaths = [
-	"ActionMaps.ActionProfiles.actionmap",
-	"ActionMaps.ActionProfiles.actionmap.action",
-	"ActionMaps.ActionProfiles.actionmap.action.rebind",
+	'ActionMaps.ActionProfiles.actionmap',
+	'ActionMaps.ActionProfiles.actionmap.action',
+	'ActionMaps.ActionProfiles.actionmap.action.rebind',
 ];
 
 // Configure the parser.
