@@ -1,10 +1,10 @@
-import { readFileSync } from 'fs';
+import { readFile } from 'fs/promises';
 import path from 'path';
 
 import { parse } from 'ini';
 
 // Read the global.ini file into a string.
-let fileContents = readFileSync(
+let fileContents = await readFile(
 	path.resolve(import.meta.dirname, '../extracted-files/global.ini'),
 	'utf-8',
 );

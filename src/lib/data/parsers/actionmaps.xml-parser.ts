@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs';
+import { readFile } from 'fs/promises';
 
 import { XMLParser } from 'fast-xml-parser';
 
@@ -17,9 +17,9 @@ const parser = new XMLParser({
 	},
 });
 
-export const getLiveGameData = () => {
+export const getLiveGameData = async () => {
 	// Read the xml contents of the default profile into a buffer.
-	const fileContents = readFileSync(
+	const fileContents = await readFile(
 		'Y:/Roberts Space Industries/StarCitizen/LIVE/USER/Client/0/Profiles/default/actionmaps.xml',
 	);
 	const liveGameData: LiveActionMapsXML = parser.parse(fileContents);

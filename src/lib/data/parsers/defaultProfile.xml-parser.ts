@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs';
+import { readFile } from 'fs/promises';
 import path from 'path';
 
 import { XMLParser } from 'fast-xml-parser';
@@ -15,7 +15,7 @@ const parser = new XMLParser({
 });
 
 // Read the xml contents of the default profile into a buffer.
-const fileContents = readFileSync(
+const fileContents = await readFile(
 	path.resolve(import.meta.dirname, '../extracted-files/defaultProfile.xml'),
 );
 
