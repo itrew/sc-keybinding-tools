@@ -206,7 +206,7 @@ export const updateDataFromLiveData = (
 				const rebind = Array.isArray(action.rebind) ? action.rebind[0] : action.rebind;
 				if (rebind.$_input.includes('button')) {
 					actionRecord.joystick.button = true;
-				} else if (rebind.$_input.includes('js1_x') || rebind.$_input.includes('js1_y')) {
+				} else if (rebind.$_input.includes('js1_x') || rebind.$_input.includes('js1_y') || rebind.$_input.includes('js1_rotz')) {
 					if (!axisCheck) {
 						actionRecord.joystick.axis = true;
 						actionRecord.joystick.button = false;
