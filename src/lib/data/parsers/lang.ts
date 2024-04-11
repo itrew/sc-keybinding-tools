@@ -13,7 +13,7 @@ let fileContents = readFileSync(
 fileContents = fileContents.replaceAll(',P=', '=');
 
 // Parse the language file into an object.
-export const lang = parse(fileContents) as { [key: string]: string };
+const lang = parse(fileContents) as { [key: string]: string };
 
 // Lookup a localized UI label or description.
 export const langLookupUI = (key: string | undefined): string | undefined => {
