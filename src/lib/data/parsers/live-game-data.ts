@@ -8,18 +8,18 @@ export type LiveRebindXML = {
 
 export type LiveActionXML = {
 	$_name: string;
-	rebind: LiveRebindXML[] | LiveRebindXML;
+	rebind: LiveRebindXML[];
 };
 
 export type LiveActionMapXML = {
 	$_name: string;
-	action: LiveActionXML[] | LiveActionXML;
+	action: LiveActionXML[];
 };
 
 export type LiveActionMapsXML = {
 	ActionMaps: {
 		ActionProfiles: {
-			actionmap: LiveActionMapXML[] | LiveActionMapXML;
+			actionmap: LiveActionMapXML[];
 		};
 	};
 };
@@ -28,6 +28,9 @@ export type LiveActionMapsXML = {
 const parser = new XMLParser({
 	ignoreAttributes: false,
 	attributeNamePrefix: '$_',
+	isArray: (name) => {
+		return name === "actionmap" || name === "action";
+	},
 });
 
 export const getLiveGameData = () => {

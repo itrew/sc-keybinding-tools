@@ -19,7 +19,7 @@ export type ActionMapXML = {
 	$_version: string;
 	$_UILabel: string;
 	$_UICategory: string;
-	action: ActionXML[] | ActionXML;
+	action: ActionXML[];
 };
 
 export type ProfileXML = {
@@ -32,6 +32,9 @@ export type ProfileXML = {
 const parser = new XMLParser({
 	ignoreAttributes: false,
 	attributeNamePrefix: '$_',
+	isArray: (name) => {
+		return name === "actionmap" || name === "action";
+	},
 });
 
 // Read the xml contents of the default profile into a buffer.
