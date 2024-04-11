@@ -3,37 +3,17 @@ import path from 'path';
 
 import { XMLParser } from 'fast-xml-parser';
 
-export type ActionXML = {
-	$_name: string;
-	$_UILabel?: string;
-	$_UIDescription?: string;
-	$_optionGroup?: string;
-	$_keyboard?: string;
-	$_joystick?: string;
-	$_mouse?: string;
-	$_gamepad?: string;
-};
-
-export type ActionMapXML = {
-	$_name: string;
-	$_version: string;
-	$_UILabel: string;
-	$_UICategory: string;
-	action: ActionXML[];
-};
-
-export type ProfileXML = {
-	profile: {
-		actionmap: ActionMapXML[];
-	};
-};
+const parseAsArrayPaths = [
+	"profile.actionmap",
+	"profile.actionmap.action",
+];
 
 // Configure the parser.
 const parser = new XMLParser({
 	ignoreAttributes: false,
 	attributeNamePrefix: '$_',
-	isArray: (name) => {
-		return name === "actionmap" || name === "action";
+	isArray: (name, jpath) => {
+		return parseAsArrayPaths.indexOf(jpath) > -1;
 	},
 });
 
@@ -43,4 +23,4 @@ const fileContents = readFileSync(
 );
 
 // Parse the xml profile file into an object.
-export const defaultProfile: ProfileXML = parser.parse(fileContents);
+export const defaultProfile: DefaultProfileXML = parser.parse(fileContents);

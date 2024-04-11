@@ -1,9 +1,9 @@
 import { writeFile } from 'fs/promises';
 import path from 'path';
 
-import { langLookupUI } from './parsers/lang';
-import { defaultProfile, type ActionMapXML, type ActionXML } from './parsers/profile';
-import { getLiveGameData, type LiveActionMapXML, type LiveActionXML } from './parsers/live-game-data';
+import { langLookupUI } from './parsers/global.ini-parser';
+import { defaultProfile } from './parsers/defaultProfile.xml-parser';
+import { getLiveGameData } from './parsers/actionmaps.xml-parser';
 import data from './processed-files/actionData.json';
 
 export type InputInfo = {
@@ -66,7 +66,7 @@ const getAction = (actionMapName: string, actionName: string): ActionData | unde
 };
 
 // Convert an XML parsed action to a useable object.
-const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionData => {
+const actionXmlToData = (actionMapName: string, actionXml: DefaultActionXML): ActionData => {
 	const actionData = getAction(actionMapName, actionXml.$_name);
 
 	const blankInputInfo: InputInfo = {
@@ -98,7 +98,7 @@ const actionXmlToData = (actionMapName: string, actionXml: ActionXML): ActionDat
 };
 
 // Convert an XML parsed action map to a useable object.
-const actionMapXmlToData = (actionMapXml: ActionMapXML): ActionMapData => {
+const actionMapXmlToData = (actionMapXml: DefaultActionMapXML): ActionMapData => {
 	const actionMapData = getActionMap(actionMapXml.$_name);
 
 	const actionMapInfo = actionMapData

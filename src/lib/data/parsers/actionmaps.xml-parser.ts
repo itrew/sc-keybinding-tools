@@ -2,34 +2,18 @@ import { readFileSync } from 'fs';
 
 import { XMLParser } from 'fast-xml-parser';
 
-export type LiveRebindXML = {
-	$_input: string;
-};
-
-export type LiveActionXML = {
-	$_name: string;
-	rebind: LiveRebindXML[];
-};
-
-export type LiveActionMapXML = {
-	$_name: string;
-	action: LiveActionXML[];
-};
-
-export type LiveActionMapsXML = {
-	ActionMaps: {
-		ActionProfiles: {
-			actionmap: LiveActionMapXML[];
-		};
-	};
-};
+const parseAsArrayPaths = [
+	"ActionMaps.ActionProfiles.actionmap",
+	"ActionMaps.ActionProfiles.actionmap.action",
+	"ActionMaps.ActionProfiles.actionmap.action.rebind",
+];
 
 // Configure the parser.
 const parser = new XMLParser({
 	ignoreAttributes: false,
 	attributeNamePrefix: '$_',
-	isArray: (name) => {
-		return name === "actionmap" || name === "action";
+	isArray: (name, jpath) => {
+		return parseAsArrayPaths.indexOf(jpath) > -1;
 	},
 });
 
