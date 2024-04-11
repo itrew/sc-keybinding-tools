@@ -12,7 +12,7 @@
 <div class="w-full overflow-hidden rounded-lg border">
 	<div class="w-full {bgColorer(actionMap.info.mouseKeyboardVisible)} p-2 font-semibold">
 		{actionMap.attributes.labelLocal || actionMap.name} - {actionMap.attributes.categoryLocal ||
-			actionMap.attributes.categoryRaw}
+			actionMap.attributes.categoryRaw}  ({actionMap.actions.length})
 	</div>
 	<div class="grid grid-cols-6 p-2 grid-rows-{actionMap.actions.length + 1}">
 		<div class="col-start-3 border-b border-b-black">Mouse</div>
@@ -32,7 +32,9 @@
 					action.mouse.bindable,
 				)} m-0.5 flex justify-between px-2 py-0.5"
 			>
-				<InputTypeIcons deviceInfo={action.mouse}/>
+				{#if action.mouse.bindable !== false}
+					<InputTypeIcons deviceInfo={action.mouse}/>
+				{/if}
 				{action.defaultBindings.mouse || ''}
 			</div>
 			<div
@@ -40,7 +42,9 @@
 					action.keyboard.bindable,
 				)} m-0.5 flex justify-between px-2 py-0.5"
 			>
-				<InputTypeIcons deviceInfo={action.keyboard}/>
+				{#if action.keyboard.bindable !== false}
+					<InputTypeIcons deviceInfo={action.keyboard}/>
+				{/if}
 				{action.defaultBindings.keyboard || ''}
 			</div>
 			<div
@@ -48,7 +52,9 @@
 					action.gamepad.bindable,
 				)} m-0.5 flex justify-between px-2 py-0.5"
 			>
-				<InputTypeIcons deviceInfo={action.gamepad}/>
+				{#if action.gamepad.bindable !== false}
+					<InputTypeIcons deviceInfo={action.gamepad}/>
+				{/if}
 				{action.defaultBindings.gamepad || ''}
 			</div>
 			<div
@@ -56,7 +62,9 @@
 					action.joystick.bindable,
 				)} m-0.5 flex justify-between px-2 py-0.5"
 			>
-				<InputTypeIcons deviceInfo={action.joystick}/>
+				{#if action.joystick.bindable !== false}
+					<InputTypeIcons deviceInfo={action.joystick}/>
+				{/if}
 				{action.defaultBindings.joystick || ''}
 			</div>
 		{/each}
