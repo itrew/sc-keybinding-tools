@@ -1,9 +1,9 @@
 import { writeFile } from 'fs/promises';
 import path from 'path';
 
-import { langLookupUI } from './lang';
-import { defaultProfile, type ActionMapXML, type ActionXML } from './profile';
-import { getLiveGameData, type LiveActionMapXML, type LiveActionXML } from './live-game-data';
+import { langLookupUI } from './parsers/lang';
+import { defaultProfile, type ActionMapXML, type ActionXML } from './parsers/profile';
+import { getLiveGameData, type LiveActionMapXML, type LiveActionXML } from './parsers/live-game-data';
 import data from './processed-files/actionData.json';
 
 export type InputInfo = {

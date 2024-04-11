@@ -36,7 +36,7 @@ const parser = new XMLParser({
 
 // Read the xml contents of the default profile into a buffer.
 const fileContents = readFileSync(
-	path.resolve(import.meta.dirname, './extracted-files/defaultProfile.xml'),
+	path.resolve(import.meta.dirname, '../extracted-files/defaultProfile.xml'),
 );
 
 // Parse the xml profile file into an object.

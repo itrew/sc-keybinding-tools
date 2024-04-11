@@ -5,7 +5,7 @@ import { parse } from 'ini';
 
 // Read the global.ini file into a string.
 let fileContents = readFileSync(
-	path.resolve(import.meta.dirname, './extracted-files/global.ini'),
+	path.resolve(import.meta.dirname, '../extracted-files/global.ini'),
 	'utf-8',
 );
 
