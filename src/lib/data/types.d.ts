@@ -47,16 +47,49 @@ type DefaultActionXML = {
 	$_gamepad?: string;
 };
 
-type DefaultActionMapXML = {
-	$_name: string;
-	$_version: string;
-	$_UILabel: string;
-	$_UICategory: string;
-	action: ActionXML[];
+// Types that represent the processed data.
+type ActionMap = {
+	name: string;
+	attributes: {
+		version: number;
+		labelRaw?: string;
+		labelLocal?: string;
+		categoryRaw?: string;
+		categoryLocal?: string;
+	};
+	info: {
+		mouseKeyboardVisible: boolean | null;
+		gamepadVisible: boolean | null;
+		joystickVisible: boolean | null;
+	};
+	actions: Action[];
 };
 
-type DefaultProfileXML = {
-	profile: {
-		actionmap: ActionMapXML[];
+type Action = {
+	name: string;
+	attributes: {
+		labelRaw?: string;
+		labelLocal?: string;
+		descriptionRaw?: string;
+		descriptionLocal?: string;
+		optionGroup?: string;
 	};
+	defaultBindings: {
+		mouse?: string;
+		keyboard?: string;
+		gamepad?: string;
+		joystick?: string;
+	};
+	mouse: InputInfo;
+	keyboard: InputInfo;
+	gamepad: InputInfo;
+	joystick: InputInfo;
 };
+
+type InputInfo = {
+	button: boolean | null;
+	axis: boolean | null;
+};
+
+type InputDevice = 'mouse' | 'keyboard' | 'gamepad' | 'joystick';
+type InputType = 'button' | 'axis';
