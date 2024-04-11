@@ -11,7 +11,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -39,8 +39,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -69,8 +69,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -99,8 +99,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -129,8 +129,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -159,8 +159,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -189,8 +189,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -219,8 +219,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -249,8 +249,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -279,8 +279,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -309,8 +309,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -327,7 +327,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -355,8 +355,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -385,8 +385,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -415,8 +415,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -441,8 +441,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -471,8 +471,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -501,8 +501,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -531,8 +531,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -561,8 +561,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -591,8 +591,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -621,8 +621,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -651,8 +651,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -681,8 +681,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -711,8 +711,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -741,8 +741,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -766,8 +766,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -791,8 +791,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -816,8 +816,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -841,8 +841,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -866,8 +866,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -884,7 +884,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -913,8 +913,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -943,8 +943,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -973,8 +973,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1002,8 +1002,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1025,8 +1025,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1055,8 +1055,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1085,8 +1085,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1115,8 +1115,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1144,8 +1144,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1167,8 +1167,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1190,8 +1190,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1220,8 +1220,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1245,8 +1245,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1270,8 +1270,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1300,8 +1300,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1331,8 +1331,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1362,8 +1362,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1387,8 +1387,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1417,8 +1417,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1448,8 +1448,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1478,8 +1478,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1508,8 +1508,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1538,8 +1538,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1568,8 +1568,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -1586,7 +1586,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -1615,8 +1615,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1645,8 +1645,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -1675,8 +1675,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1704,8 +1704,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1734,8 +1734,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -1764,8 +1764,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -1794,8 +1794,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1823,8 +1823,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1853,8 +1853,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -1883,8 +1883,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -1913,8 +1913,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -1942,8 +1942,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -1970,8 +1970,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -2000,8 +2000,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2031,8 +2031,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2062,8 +2062,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2093,8 +2093,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2124,8 +2124,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2155,8 +2155,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2185,8 +2185,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2215,8 +2215,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2246,8 +2246,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2277,8 +2277,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2307,8 +2307,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2337,8 +2337,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2368,8 +2368,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2399,8 +2399,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2429,8 +2429,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2460,8 +2460,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2491,8 +2491,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -2521,8 +2521,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2551,8 +2551,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2581,8 +2581,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2611,8 +2611,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2641,8 +2641,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2671,8 +2671,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2701,8 +2701,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2731,8 +2731,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2761,8 +2761,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2792,8 +2792,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2823,8 +2823,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -2853,8 +2853,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2883,8 +2883,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2913,8 +2913,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2943,8 +2943,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -2974,8 +2974,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3005,8 +3005,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -3035,8 +3035,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3066,8 +3066,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -3096,8 +3096,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3126,8 +3126,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3156,8 +3156,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3186,8 +3186,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3216,8 +3216,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3246,8 +3246,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3276,8 +3276,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3306,8 +3306,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3336,8 +3336,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3366,8 +3366,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3396,8 +3396,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3426,8 +3426,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3456,8 +3456,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3486,8 +3486,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3516,8 +3516,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3546,8 +3546,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3576,8 +3576,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3606,8 +3606,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -3624,7 +3624,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -3653,8 +3653,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -3671,7 +3671,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -3700,8 +3700,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3730,8 +3730,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3760,8 +3760,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -3778,7 +3778,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -3807,8 +3807,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3837,8 +3837,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3867,8 +3867,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3897,8 +3897,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3927,8 +3927,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3957,8 +3957,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -3987,8 +3987,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4017,8 +4017,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4047,8 +4047,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4077,8 +4077,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4107,8 +4107,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4137,8 +4137,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4167,8 +4167,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4197,8 +4197,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4227,8 +4227,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4257,8 +4257,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4287,8 +4287,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4317,8 +4317,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4347,8 +4347,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4377,8 +4377,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4407,8 +4407,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4437,8 +4437,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -4455,7 +4455,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -4484,8 +4484,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4514,8 +4514,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4544,8 +4544,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4574,8 +4574,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4604,8 +4604,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4634,8 +4634,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4664,8 +4664,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4694,8 +4694,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4724,8 +4724,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4754,8 +4754,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4784,8 +4784,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4814,8 +4814,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4844,8 +4844,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4874,8 +4874,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4904,8 +4904,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4934,8 +4934,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4964,8 +4964,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -4994,8 +4994,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5024,8 +5024,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5054,8 +5054,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5084,8 +5084,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -5102,7 +5102,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -5130,8 +5130,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -5148,7 +5148,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -5178,8 +5178,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -5196,7 +5196,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -5225,8 +5225,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5255,8 +5255,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5285,8 +5285,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5308,8 +5308,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5331,8 +5331,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5354,8 +5354,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5377,8 +5377,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5400,8 +5400,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5423,8 +5423,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5446,8 +5446,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -5469,8 +5469,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -5487,7 +5487,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -5516,8 +5516,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5546,8 +5546,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5576,8 +5576,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5606,8 +5606,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5638,8 +5638,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -5669,8 +5669,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5700,8 +5700,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5731,8 +5731,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5762,8 +5762,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -5780,7 +5780,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -5809,8 +5809,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5839,8 +5839,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5869,8 +5869,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5900,8 +5900,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5931,8 +5931,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5962,8 +5962,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -5993,8 +5993,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6023,8 +6023,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6054,8 +6054,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6083,8 +6083,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6112,8 +6112,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6142,8 +6142,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -6172,8 +6172,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -6202,8 +6202,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6233,8 +6233,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6264,8 +6264,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6295,8 +6295,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6326,8 +6326,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6357,8 +6357,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6388,8 +6388,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6419,8 +6419,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6450,8 +6450,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6481,8 +6481,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6512,8 +6512,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6543,8 +6543,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6574,8 +6574,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6605,8 +6605,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6636,8 +6636,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6667,8 +6667,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6698,8 +6698,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6729,8 +6729,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -6747,7 +6747,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -6776,8 +6776,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6806,8 +6806,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -6836,8 +6836,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -6865,8 +6865,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -6895,8 +6895,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -6925,8 +6925,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -6955,8 +6955,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -6984,8 +6984,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -7014,8 +7014,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7044,8 +7044,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7074,8 +7074,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7104,8 +7104,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7134,8 +7134,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7164,8 +7164,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -7182,7 +7182,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -7211,8 +7211,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7241,8 +7241,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7271,8 +7271,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7301,8 +7301,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7332,8 +7332,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -7362,8 +7362,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7392,8 +7392,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7422,8 +7422,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -7452,8 +7452,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7482,8 +7482,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7512,8 +7512,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -7530,7 +7530,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -7560,8 +7560,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7591,8 +7591,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7622,8 +7622,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7652,8 +7652,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7682,8 +7682,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7712,8 +7712,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7742,8 +7742,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7772,8 +7772,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7802,8 +7802,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7832,8 +7832,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7862,8 +7862,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7892,8 +7892,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7922,8 +7922,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7952,8 +7952,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -7982,8 +7982,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8012,8 +8012,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8042,8 +8042,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8072,8 +8072,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8102,8 +8102,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8132,8 +8132,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8162,8 +8162,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8192,8 +8192,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8223,8 +8223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -8253,8 +8253,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8283,8 +8283,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8313,8 +8313,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -8343,8 +8343,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -8361,7 +8361,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -8390,8 +8390,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8420,8 +8420,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8450,8 +8450,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8480,8 +8480,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8510,8 +8510,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8540,8 +8540,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8570,8 +8570,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8600,8 +8600,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8630,8 +8630,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8660,8 +8660,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8690,8 +8690,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8720,8 +8720,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8750,8 +8750,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8780,8 +8780,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -8798,7 +8798,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -8827,8 +8827,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8857,8 +8857,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8887,8 +8887,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8917,8 +8917,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8947,8 +8947,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -8977,8 +8977,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9007,8 +9007,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9037,8 +9037,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9067,8 +9067,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9097,8 +9097,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9127,8 +9127,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9157,8 +9157,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -9175,7 +9175,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -9204,8 +9204,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9234,8 +9234,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9264,8 +9264,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9294,8 +9294,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9324,8 +9324,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9354,8 +9354,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9384,8 +9384,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9414,8 +9414,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9444,8 +9444,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9474,8 +9474,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9504,8 +9504,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9534,8 +9534,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9564,8 +9564,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9594,8 +9594,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9624,8 +9624,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9654,8 +9654,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9684,8 +9684,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9714,8 +9714,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9744,8 +9744,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -9758,7 +9758,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -9782,8 +9782,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -9800,7 +9800,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -9829,8 +9829,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9859,8 +9859,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9889,8 +9889,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9919,8 +9919,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9949,8 +9949,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -9979,8 +9979,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10009,8 +10009,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10039,8 +10039,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10069,8 +10069,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10099,8 +10099,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10129,8 +10129,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10159,8 +10159,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10189,8 +10189,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10219,8 +10219,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10249,8 +10249,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10279,8 +10279,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -10297,7 +10297,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -10326,8 +10326,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10354,8 +10354,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10378,8 +10378,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10408,8 +10408,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10432,8 +10432,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10457,8 +10457,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10482,8 +10482,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10507,8 +10507,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10532,8 +10532,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10557,8 +10557,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10582,8 +10582,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10607,8 +10607,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10632,8 +10632,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10657,8 +10657,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10682,8 +10682,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10706,8 +10706,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10730,8 +10730,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10755,8 +10755,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10780,8 +10780,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10805,8 +10805,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10830,8 +10830,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10855,8 +10855,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10880,8 +10880,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10905,8 +10905,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10930,8 +10930,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -10959,8 +10959,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -10989,8 +10989,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -11007,7 +11007,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -11036,8 +11036,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -11061,8 +11061,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11086,8 +11086,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -11104,7 +11104,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -11127,8 +11127,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11152,8 +11152,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11177,8 +11177,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11201,8 +11201,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11225,8 +11225,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11249,8 +11249,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11272,8 +11272,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11295,8 +11295,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11318,8 +11318,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11341,8 +11341,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11365,8 +11365,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11389,8 +11389,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11414,8 +11414,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11437,8 +11437,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11460,8 +11460,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11483,8 +11483,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11506,8 +11506,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11529,8 +11529,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11553,8 +11553,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11577,8 +11577,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11601,8 +11601,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11625,8 +11625,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11649,8 +11649,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11673,8 +11673,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11697,8 +11697,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11721,8 +11721,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11744,8 +11744,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -11768,8 +11768,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -11784,7 +11784,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -11813,8 +11813,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -11843,8 +11843,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -11861,7 +11861,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -11889,8 +11889,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -11918,8 +11918,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -11947,8 +11947,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -11976,8 +11976,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12002,8 +12002,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12028,8 +12028,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12058,8 +12058,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -12088,8 +12088,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -12118,8 +12118,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -12148,8 +12148,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -12177,8 +12177,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12205,8 +12205,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12233,8 +12233,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12261,8 +12261,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12290,8 +12290,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12320,8 +12320,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12350,8 +12350,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12380,8 +12380,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12410,8 +12410,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12434,8 +12434,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12464,8 +12464,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12495,8 +12495,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12526,8 +12526,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12557,8 +12557,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12588,8 +12588,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12619,8 +12619,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12650,8 +12650,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12681,8 +12681,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12709,8 +12709,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12737,8 +12737,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12765,8 +12765,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12794,8 +12794,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12825,8 +12825,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12856,8 +12856,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12885,8 +12885,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -12916,8 +12916,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12947,8 +12947,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -12978,8 +12978,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13009,8 +13009,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13040,8 +13040,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13070,8 +13070,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13100,8 +13100,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13130,8 +13130,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13160,8 +13160,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13190,8 +13190,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13220,8 +13220,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13248,8 +13248,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13276,8 +13276,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13304,8 +13304,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13332,8 +13332,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13360,8 +13360,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13390,8 +13390,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13415,8 +13415,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -13440,8 +13440,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -13470,8 +13470,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13500,8 +13500,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13530,8 +13530,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13560,8 +13560,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13590,8 +13590,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13620,8 +13620,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13650,8 +13650,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13679,8 +13679,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13709,8 +13709,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13739,8 +13739,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13769,8 +13769,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13799,8 +13799,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13829,8 +13829,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13859,8 +13859,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13890,8 +13890,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13921,8 +13921,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -13946,8 +13946,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -13971,8 +13971,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -13996,8 +13996,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14026,8 +14026,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14056,8 +14056,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14081,8 +14081,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14111,8 +14111,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14141,8 +14141,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14171,8 +14171,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14195,8 +14195,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14219,8 +14219,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14249,8 +14249,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14274,8 +14274,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14299,8 +14299,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14329,8 +14329,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14353,8 +14353,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14383,8 +14383,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14406,8 +14406,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14429,8 +14429,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14456,8 +14456,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14479,8 +14479,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14502,8 +14502,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14525,8 +14525,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14553,8 +14553,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14583,8 +14583,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14613,8 +14613,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14637,8 +14637,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14661,8 +14661,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14686,8 +14686,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14711,8 +14711,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14736,8 +14736,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14761,8 +14761,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14784,8 +14784,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14807,8 +14807,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14834,8 +14834,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14864,8 +14864,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14895,8 +14895,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -14919,8 +14919,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14944,8 +14944,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14969,8 +14969,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -14993,8 +14993,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15017,8 +15017,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15041,8 +15041,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15064,8 +15064,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15087,8 +15087,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15110,8 +15110,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15133,8 +15133,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15157,8 +15157,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15181,8 +15181,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15206,8 +15206,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15229,8 +15229,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15252,8 +15252,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15275,8 +15275,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15298,8 +15298,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15321,8 +15321,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15345,8 +15345,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15369,8 +15369,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15393,8 +15393,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15417,8 +15417,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15441,8 +15441,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15465,8 +15465,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15489,8 +15489,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15513,8 +15513,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15536,8 +15536,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15560,8 +15560,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15591,8 +15591,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -15620,8 +15620,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -15650,8 +15650,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -15675,8 +15675,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15700,8 +15700,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15725,8 +15725,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15750,8 +15750,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15775,8 +15775,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15800,8 +15800,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15825,8 +15825,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15850,8 +15850,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -15868,7 +15868,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -15895,8 +15895,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -15923,8 +15923,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			}
 		]
@@ -15939,7 +15939,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -15965,8 +15965,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -15992,8 +15992,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16019,8 +16019,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16046,8 +16046,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16073,8 +16073,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16100,8 +16100,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -16115,7 +16115,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -16138,8 +16138,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16162,8 +16162,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16186,8 +16186,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16210,8 +16210,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16234,8 +16234,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16257,8 +16257,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16280,8 +16280,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16303,8 +16303,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16326,8 +16326,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16349,8 +16349,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16372,8 +16372,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16395,8 +16395,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16418,8 +16418,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16441,8 +16441,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16464,8 +16464,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16487,8 +16487,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16511,8 +16511,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16535,8 +16535,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16559,8 +16559,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16583,8 +16583,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16607,8 +16607,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16631,8 +16631,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -16649,7 +16649,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -16678,8 +16678,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -16708,8 +16708,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -16734,8 +16734,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16760,8 +16760,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16784,8 +16784,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16810,8 +16810,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16836,8 +16836,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -16861,8 +16861,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -16879,7 +16879,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -16908,8 +16908,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -16926,7 +16926,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -16955,8 +16955,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -16985,8 +16985,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17015,8 +17015,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17044,8 +17044,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -17074,8 +17074,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17104,8 +17104,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17134,8 +17134,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17163,8 +17163,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -17193,8 +17193,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17223,8 +17223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17253,8 +17253,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17284,8 +17284,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17315,8 +17315,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17346,8 +17346,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17377,8 +17377,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17408,8 +17408,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17439,8 +17439,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17470,8 +17470,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17501,8 +17501,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17532,8 +17532,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -17562,8 +17562,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17592,8 +17592,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17622,8 +17622,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -17640,7 +17640,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -17669,8 +17669,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17699,8 +17699,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17729,8 +17729,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17759,8 +17759,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -17777,7 +17777,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -17806,8 +17806,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17836,8 +17836,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17860,8 +17860,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -17891,8 +17891,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17922,8 +17922,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -17951,8 +17951,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -17980,8 +17980,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18010,8 +18010,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -18040,8 +18040,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -18070,8 +18070,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18094,8 +18094,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18125,8 +18125,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18156,8 +18156,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18187,8 +18187,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18210,8 +18210,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18233,8 +18233,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18256,8 +18256,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18284,8 +18284,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18314,8 +18314,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18344,8 +18344,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18374,8 +18374,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18404,8 +18404,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18434,8 +18434,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18464,8 +18464,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18494,8 +18494,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18524,8 +18524,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18554,8 +18554,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18584,8 +18584,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18613,8 +18613,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18643,8 +18643,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -18661,7 +18661,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -18691,8 +18691,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -18722,8 +18722,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				}
 			},
 			{
@@ -18752,8 +18752,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -18782,8 +18782,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18812,8 +18812,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18842,8 +18842,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -18871,8 +18871,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -18901,8 +18901,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18931,8 +18931,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -18961,8 +18961,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -18990,8 +18990,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19020,8 +19020,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19051,8 +19051,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19081,8 +19081,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19111,8 +19111,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19142,8 +19142,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19172,8 +19172,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19202,8 +19202,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19232,8 +19232,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19262,8 +19262,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -19276,7 +19276,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -19298,8 +19298,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19321,8 +19321,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19344,8 +19344,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19367,8 +19367,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19390,8 +19390,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19413,8 +19413,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19436,8 +19436,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19459,8 +19459,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19482,8 +19482,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -19496,7 +19496,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -19519,8 +19519,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19543,8 +19543,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19567,8 +19567,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -19591,8 +19591,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -19609,7 +19609,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": true
 		},
 		"actions": [
 			{
@@ -19639,8 +19639,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19670,8 +19670,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19700,8 +19700,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19730,8 +19730,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19761,8 +19761,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19792,8 +19792,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19823,8 +19823,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19854,8 +19854,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19885,8 +19885,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19916,8 +19916,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				}
 			},
 			{
@@ -19946,8 +19946,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -19974,8 +19974,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20004,8 +20004,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -20034,8 +20034,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -20061,8 +20061,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20088,8 +20088,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20115,8 +20115,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20142,8 +20142,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20169,8 +20169,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20196,8 +20196,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20223,8 +20223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20250,8 +20250,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20278,8 +20278,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20305,8 +20305,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20332,8 +20332,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20361,8 +20361,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20390,8 +20390,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20418,8 +20418,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -20436,7 +20436,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -20458,8 +20458,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20481,8 +20481,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20504,8 +20504,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20528,8 +20528,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20551,8 +20551,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20574,8 +20574,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20600,8 +20600,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20630,8 +20630,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -20655,8 +20655,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20680,8 +20680,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20710,8 +20710,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -20733,8 +20733,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20756,8 +20756,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20779,8 +20779,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20802,8 +20802,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20825,8 +20825,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20849,8 +20849,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20872,8 +20872,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20896,8 +20896,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20919,8 +20919,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20942,8 +20942,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20965,8 +20965,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -20988,8 +20988,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21011,8 +21011,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21034,8 +21034,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21057,8 +21057,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21080,8 +21080,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21104,8 +21104,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21129,8 +21129,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21150,8 +21150,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21174,8 +21174,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21199,8 +21199,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21222,8 +21222,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21246,8 +21246,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21270,8 +21270,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21294,8 +21294,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21318,8 +21318,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21342,8 +21342,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21366,8 +21366,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21390,8 +21390,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21414,8 +21414,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21438,8 +21438,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21468,8 +21468,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21498,8 +21498,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21527,8 +21527,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21550,8 +21550,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21573,8 +21573,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21596,8 +21596,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -21610,7 +21610,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -21630,8 +21630,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21653,8 +21653,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21676,8 +21676,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21699,8 +21699,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21722,8 +21722,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21745,8 +21745,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -21763,7 +21763,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -21790,8 +21790,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21818,8 +21818,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -21846,8 +21846,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -21864,7 +21864,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -21893,8 +21893,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21923,8 +21923,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21953,8 +21953,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -21983,8 +21983,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22013,8 +22013,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22043,8 +22043,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22073,8 +22073,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22103,8 +22103,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22133,8 +22133,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22163,8 +22163,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22193,8 +22193,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22223,8 +22223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22253,8 +22253,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22283,8 +22283,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22313,8 +22313,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22343,8 +22343,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22373,8 +22373,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22403,8 +22403,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22433,8 +22433,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22463,8 +22463,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22493,8 +22493,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22523,8 +22523,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22553,8 +22553,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22583,8 +22583,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22613,8 +22613,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22643,8 +22643,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22673,8 +22673,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22703,8 +22703,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22733,8 +22733,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22763,8 +22763,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22793,8 +22793,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22823,8 +22823,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22853,8 +22853,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22883,8 +22883,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22913,8 +22913,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22943,8 +22943,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -22973,8 +22973,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23003,8 +23003,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23033,8 +23033,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23063,8 +23063,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -23081,7 +23081,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -23110,8 +23110,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23140,8 +23140,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23170,8 +23170,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23200,8 +23200,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23230,8 +23230,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23260,8 +23260,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23290,8 +23290,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23320,8 +23320,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23350,8 +23350,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -23368,7 +23368,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -23393,8 +23393,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -23419,8 +23419,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -23448,8 +23448,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23479,8 +23479,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23510,8 +23510,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23541,8 +23541,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23572,8 +23572,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23603,8 +23603,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23633,8 +23633,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23663,8 +23663,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23693,8 +23693,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23723,8 +23723,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23753,8 +23753,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23781,8 +23781,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23809,8 +23809,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23835,8 +23835,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -23862,8 +23862,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23887,8 +23887,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -23915,8 +23915,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23943,8 +23943,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -23971,8 +23971,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -23999,8 +23999,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24027,8 +24027,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24055,8 +24055,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24083,8 +24083,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24111,8 +24111,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24139,8 +24139,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24167,8 +24167,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24195,8 +24195,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24223,8 +24223,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24251,8 +24251,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24279,8 +24279,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24307,8 +24307,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24335,8 +24335,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24362,8 +24362,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24389,8 +24389,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24416,8 +24416,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24444,8 +24444,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24472,8 +24472,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -24500,8 +24500,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -24514,7 +24514,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -24536,8 +24536,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24559,8 +24559,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24582,8 +24582,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24605,8 +24605,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24628,8 +24628,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24651,8 +24651,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24674,8 +24674,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24697,8 +24697,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24720,8 +24720,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24743,8 +24743,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24766,8 +24766,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24789,8 +24789,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24812,8 +24812,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24836,8 +24836,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24860,8 +24860,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24884,8 +24884,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24908,8 +24908,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24932,8 +24932,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -24956,8 +24956,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -24974,7 +24974,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -25003,8 +25003,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25032,8 +25032,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25062,8 +25062,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25092,8 +25092,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25122,8 +25122,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25152,8 +25152,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25182,8 +25182,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25212,8 +25212,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25242,8 +25242,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25272,8 +25272,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25302,8 +25302,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25332,8 +25332,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25362,8 +25362,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25392,8 +25392,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25422,8 +25422,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25452,8 +25452,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25482,8 +25482,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25512,8 +25512,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25542,8 +25542,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25572,8 +25572,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25602,8 +25602,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25632,8 +25632,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25662,8 +25662,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25692,8 +25692,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25722,8 +25722,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25752,8 +25752,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25782,8 +25782,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25812,8 +25812,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -25842,8 +25842,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -25872,8 +25872,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -25902,8 +25902,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			},
 			{
@@ -25932,8 +25932,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				}
 			}
 		]
@@ -25946,7 +25946,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -25968,8 +25968,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -25991,8 +25991,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26014,8 +26014,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26037,8 +26037,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26060,8 +26060,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26083,8 +26083,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26106,8 +26106,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26129,8 +26129,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26153,8 +26153,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26177,8 +26177,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26201,8 +26201,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26225,8 +26225,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26249,8 +26249,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26273,8 +26273,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26297,8 +26297,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26321,8 +26321,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -26335,7 +26335,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -26358,8 +26358,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26382,8 +26382,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26406,8 +26406,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26430,8 +26430,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26454,8 +26454,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26478,8 +26478,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26502,8 +26502,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26526,8 +26526,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26550,8 +26550,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26574,8 +26574,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26597,8 +26597,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26620,8 +26620,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26644,8 +26644,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26668,8 +26668,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26693,8 +26693,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26718,8 +26718,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			},
 			{
@@ -26742,8 +26742,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
@@ -26756,7 +26756,7 @@
 		"info": {
 			"mouseKeyboardVisible": null,
 			"gamepadVisible": null,
-			"joystickVisible": null
+			"joystickVisible": false
 		},
 		"actions": [
 			{
@@ -26780,8 +26780,8 @@
 					"axis": null
 				},
 				"joystick": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				}
 			}
 		]
