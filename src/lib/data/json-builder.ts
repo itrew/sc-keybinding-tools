@@ -147,6 +147,7 @@ export const writeActionDataFile = () => {
 export const updateDataFromLiveData = (
 	inputDevice: 'mouse' | 'keyboard' | 'gamepad' | 'joystick',
 	actionMapName: string,
+	axisCheck?: boolean,
 ) => {
 	const liveGameData = getLiveGameData();
 
@@ -160,16 +161,18 @@ export const updateDataFromLiveData = (
 		liveActionMapXml = liveGameData.ActionMaps.ActionProfiles.actionmap;
 	}
 
-	if (!liveActionMapXml) {
+	if (!liveActionMapXml && !axisCheck) {
 		return;
 	}
 
-	let actions: LiveActionXML[];
+	let actions: LiveActionXML[] = [];
 
-	if (Array.isArray(liveActionMapXml.action)) {
-		actions = liveActionMapXml.action;
-	} else {
-		actions = [liveActionMapXml.action];
+	if (liveActionMapXml) {
+		if (Array.isArray(liveActionMapXml.action)) {
+			actions = liveActionMapXml.action;
+		} else {
+			actions = [liveActionMapXml.action];
+		}
 	}
 
 	const actionMapRecord = actionData.find((am) => am.name === actionMapName);
@@ -184,8 +187,12 @@ export const updateDataFromLiveData = (
 				if (rebind.$_input.includes('mouse')) {
 					actionRecord.mouse.button = true;
 				} else if (rebind.$_input.includes('maxis')) {
-					actionRecord.mouse.axis = true;
-					actionRecord.mouse.button = false;
+					if (!axisCheck) {
+						actionRecord.mouse.axis = true;
+						actionRecord.mouse.button = false;
+					} else {
+						actionRecord.mouse.axis = true;
+					}
 				}
 			}
 
@@ -200,8 +207,12 @@ export const updateDataFromLiveData = (
 				if (rebind.$_input.includes('button')) {
 					actionRecord.joystick.button = true;
 				} else if (rebind.$_input.includes('js1_x') || rebind.$_input.includes('js1_y')) {
-					actionRecord.joystick.axis = true;
-					actionRecord.joystick.button = false;
+					if (!axisCheck) {
+						actionRecord.joystick.axis = true;
+						actionRecord.joystick.button = false;
+					} else {
+						actionRecord.joystick.axis = true;
+					}
 				}
 			}
 		});
@@ -210,11 +221,17 @@ export const updateDataFromLiveData = (
 			if (inputDevice === 'mouse' && a.mouse.bindable === null) {
 				a.mouse.bindable = false;
 			}
+			if (inputDevice === 'mouse' && a.mouse.bindable && axisCheck && a.mouse.axis === null) {
+				a.mouse.axis = false;
+			}
 			if (inputDevice === 'keyboard' && a.keyboard.bindable === null) {
 				a.keyboard.bindable = false;
 			}
 			if (inputDevice === 'joystick' && a.joystick.bindable === null) {
 				a.joystick.bindable = false;
+			}
+			if (inputDevice === 'joystick' && a.joystick.bindable && axisCheck && a.joystick.axis === null) {
+				a.joystick.axis = false;
 			}
 		});
 	}
