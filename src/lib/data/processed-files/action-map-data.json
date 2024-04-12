@@ -9,7 +9,7 @@
 			"categoryLocal": "@ui_CCSeatGeneral"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -27,8 +27,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -57,8 +57,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -87,8 +87,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -117,8 +117,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -147,8 +147,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -177,8 +177,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -207,8 +207,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -237,8 +237,8 @@
 					"joystick": "button4"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -267,8 +267,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -297,8 +297,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -325,7 +325,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -343,8 +343,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -373,8 +373,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -403,8 +403,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -429,8 +429,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -459,8 +459,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -489,8 +489,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -519,8 +519,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -549,8 +549,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -579,8 +579,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -609,8 +609,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -639,8 +639,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -669,8 +669,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -699,8 +699,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -729,8 +729,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -754,8 +754,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -779,8 +779,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -804,8 +804,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -829,8 +829,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -854,8 +854,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -882,7 +882,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -901,8 +901,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -931,8 +931,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -961,8 +961,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -990,8 +990,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1013,8 +1013,8 @@
 					"keyboard": "HMD_Yaw"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1043,8 +1043,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1073,8 +1073,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1103,8 +1103,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1132,8 +1132,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1155,8 +1155,8 @@
 					"keyboard": "HMD_Pitch"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1178,8 +1178,8 @@
 					"keyboard": "HMD_Roll"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1208,8 +1208,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1233,8 +1233,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1258,8 +1258,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1288,8 +1288,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1319,8 +1319,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1350,8 +1350,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1375,8 +1375,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1405,8 +1405,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1436,8 +1436,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1466,8 +1466,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1496,8 +1496,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1526,8 +1526,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1556,8 +1556,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1584,7 +1584,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -1603,8 +1603,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1633,8 +1633,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1663,8 +1663,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1692,8 +1692,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1722,8 +1722,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1752,8 +1752,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1782,8 +1782,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1811,8 +1811,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1841,8 +1841,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1871,8 +1871,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1901,8 +1901,8 @@
 					"joystick": "rotz"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1930,8 +1930,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -1958,8 +1958,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -1988,8 +1988,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2019,8 +2019,8 @@
 					"joystick": "button9"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2050,8 +2050,8 @@
 					"joystick": "button10"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2081,8 +2081,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2112,8 +2112,8 @@
 					"joystick": "hat1_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2143,8 +2143,8 @@
 					"joystick": "hat1_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2173,8 +2173,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2203,8 +2203,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2234,8 +2234,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2265,8 +2265,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2295,8 +2295,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2325,8 +2325,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2356,8 +2356,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2387,8 +2387,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2417,8 +2417,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2448,8 +2448,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2479,8 +2479,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2509,8 +2509,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2539,8 +2539,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2569,8 +2569,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2599,8 +2599,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2629,8 +2629,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2659,8 +2659,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2689,8 +2689,8 @@
 					"joystick": "button8"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2719,8 +2719,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2749,8 +2749,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2780,8 +2780,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2811,8 +2811,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2841,8 +2841,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2871,8 +2871,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2901,8 +2901,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2931,8 +2931,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -2962,8 +2962,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -2993,8 +2993,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -3023,8 +3023,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3054,8 +3054,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -3084,8 +3084,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3114,8 +3114,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3144,8 +3144,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3174,8 +3174,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3204,8 +3204,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3234,8 +3234,8 @@
 					"joystick": "button12"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3264,8 +3264,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3294,8 +3294,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3324,8 +3324,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3354,8 +3354,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3384,8 +3384,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3414,8 +3414,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3444,8 +3444,8 @@
 					"joystick": "button12"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3474,8 +3474,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3504,8 +3504,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3534,8 +3534,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3564,8 +3564,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3594,8 +3594,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3622,7 +3622,7 @@
 			"categoryLocal": "@ui_CCSeatGeneral"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -3641,8 +3641,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3669,7 +3669,7 @@
 			"categoryLocal": "@ui_CCSeatGeneral"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -3688,8 +3688,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3718,8 +3718,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3748,8 +3748,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3776,7 +3776,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -3795,8 +3795,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3825,8 +3825,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3855,8 +3855,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3885,8 +3885,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3915,8 +3915,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3945,8 +3945,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -3975,8 +3975,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4005,8 +4005,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4035,8 +4035,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4065,8 +4065,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4095,8 +4095,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4125,8 +4125,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4155,8 +4155,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4185,8 +4185,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4215,8 +4215,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4245,8 +4245,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4275,8 +4275,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4305,8 +4305,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4335,8 +4335,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4365,8 +4365,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4395,8 +4395,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4425,8 +4425,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4453,7 +4453,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -4472,8 +4472,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4502,8 +4502,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4532,8 +4532,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4562,8 +4562,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4592,8 +4592,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4622,8 +4622,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4652,8 +4652,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4682,8 +4682,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4712,8 +4712,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4742,8 +4742,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4772,8 +4772,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4802,8 +4802,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4832,8 +4832,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4862,8 +4862,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4892,8 +4892,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4922,8 +4922,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4952,8 +4952,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -4982,8 +4982,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5012,8 +5012,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5042,8 +5042,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5072,8 +5072,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5100,7 +5100,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -5118,8 +5118,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5146,7 +5146,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -5166,8 +5166,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5194,7 +5194,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -5213,8 +5213,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5243,8 +5243,8 @@
 					"joystick": "button3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5273,8 +5273,8 @@
 					"joystick": "button4"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5296,8 +5296,8 @@
 					"keyboard": "left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5319,8 +5319,8 @@
 					"keyboard": "right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5342,8 +5342,8 @@
 					"keyboard": "up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5365,8 +5365,8 @@
 					"keyboard": "down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5388,8 +5388,8 @@
 					"keyboard": "rctrl+left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5411,8 +5411,8 @@
 					"keyboard": "rctrl+right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5434,8 +5434,8 @@
 					"keyboard": "rctrl+up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5457,8 +5457,8 @@
 					"keyboard": "rctrl+down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5485,7 +5485,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -5504,8 +5504,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5534,8 +5534,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5564,8 +5564,8 @@
 					"joystick": "button3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5594,8 +5594,8 @@
 					"joystick": "button4"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5626,8 +5626,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5657,8 +5657,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5688,8 +5688,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5719,8 +5719,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5750,8 +5750,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5778,7 +5778,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -5797,8 +5797,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5827,8 +5827,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5857,8 +5857,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5888,8 +5888,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5919,8 +5919,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5950,8 +5950,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -5981,8 +5981,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6011,8 +6011,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6042,8 +6042,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6071,8 +6071,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6100,8 +6100,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6130,8 +6130,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -6160,8 +6160,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -6190,8 +6190,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6221,8 +6221,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6252,8 +6252,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6283,8 +6283,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6314,8 +6314,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6345,8 +6345,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6376,8 +6376,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6407,8 +6407,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6438,8 +6438,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6469,8 +6469,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6500,8 +6500,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6531,8 +6531,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6562,8 +6562,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6593,8 +6593,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6624,8 +6624,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6655,8 +6655,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6686,8 +6686,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6717,8 +6717,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6745,7 +6745,7 @@
 			"categoryLocal": "@ui_CCTurrets"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -6764,8 +6764,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6794,8 +6794,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6824,8 +6824,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6853,8 +6853,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -6883,8 +6883,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -6913,8 +6913,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -6943,8 +6943,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -6972,8 +6972,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -7002,8 +7002,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7032,8 +7032,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7062,8 +7062,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7092,8 +7092,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7122,8 +7122,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7152,8 +7152,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7180,7 +7180,7 @@
 			"categoryLocal": "@ui_CCTurrets"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -7199,8 +7199,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7229,8 +7229,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7259,8 +7259,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7289,8 +7289,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7320,8 +7320,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -7350,8 +7350,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7380,8 +7380,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7410,8 +7410,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7440,8 +7440,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7470,8 +7470,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7500,8 +7500,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7528,7 +7528,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -7548,8 +7548,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7579,8 +7579,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7610,8 +7610,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7640,8 +7640,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7670,8 +7670,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7700,8 +7700,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7730,8 +7730,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7760,8 +7760,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7790,8 +7790,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7820,8 +7820,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7850,8 +7850,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7880,8 +7880,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7910,8 +7910,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7940,8 +7940,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -7970,8 +7970,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8000,8 +8000,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8030,8 +8030,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8060,8 +8060,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8090,8 +8090,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8120,8 +8120,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8150,8 +8150,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8180,8 +8180,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8211,8 +8211,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -8241,8 +8241,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8271,8 +8271,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8301,8 +8301,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8331,8 +8331,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8359,7 +8359,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -8378,8 +8378,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8408,8 +8408,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8438,8 +8438,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8468,8 +8468,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8498,8 +8498,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8528,8 +8528,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8558,8 +8558,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8588,8 +8588,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8618,8 +8618,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8648,8 +8648,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8678,8 +8678,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8708,8 +8708,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8738,8 +8738,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8768,8 +8768,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8796,7 +8796,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -8815,8 +8815,8 @@
 					"joystick": "button3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8845,8 +8845,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8875,8 +8875,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8905,8 +8905,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8935,8 +8935,8 @@
 					"joystick": "button5"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8965,8 +8965,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -8995,8 +8995,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9025,8 +9025,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9055,8 +9055,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9085,8 +9085,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9115,8 +9115,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9145,8 +9145,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9173,7 +9173,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -9192,8 +9192,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9222,8 +9222,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9252,8 +9252,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9282,8 +9282,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9312,8 +9312,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9342,8 +9342,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9372,8 +9372,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9402,8 +9402,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9432,8 +9432,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9462,8 +9462,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9492,8 +9492,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9522,8 +9522,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9552,8 +9552,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9582,8 +9582,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9612,8 +9612,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9642,8 +9642,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9672,8 +9672,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9702,8 +9702,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9732,8 +9732,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9756,7 +9756,7 @@
 			"version": 1
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -9770,8 +9770,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9798,7 +9798,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -9817,8 +9817,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9847,8 +9847,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9877,8 +9877,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9907,8 +9907,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9937,8 +9937,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9967,8 +9967,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -9997,8 +9997,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10027,8 +10027,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10057,8 +10057,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10087,8 +10087,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10117,8 +10117,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10147,8 +10147,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10177,8 +10177,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10207,8 +10207,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10237,8 +10237,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10267,8 +10267,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10295,7 +10295,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -10314,8 +10314,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10342,8 +10342,8 @@
 					"keyboard": "f1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10366,8 +10366,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10396,8 +10396,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10420,8 +10420,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10445,8 +10445,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10470,8 +10470,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10495,8 +10495,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10520,8 +10520,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10545,8 +10545,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10570,8 +10570,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10595,8 +10595,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10620,8 +10620,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10645,8 +10645,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10670,8 +10670,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10694,8 +10694,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10718,8 +10718,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10743,8 +10743,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10768,8 +10768,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10793,8 +10793,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10818,8 +10818,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10843,8 +10843,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10868,8 +10868,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10893,8 +10893,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10918,8 +10918,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10947,8 +10947,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -10977,8 +10977,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11005,7 +11005,7 @@
 			"categoryLocal": "@ui_CGLightControllerDesc"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -11024,8 +11024,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11049,8 +11049,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11074,8 +11074,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11102,7 +11102,7 @@
 			"categoryLocal": "FLIGHT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -11115,8 +11115,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11140,8 +11140,8 @@
 					"gamepad": "thumbr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11165,8 +11165,8 @@
 					"gamepad": "thumbl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11189,8 +11189,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11213,8 +11213,8 @@
 					"gamepad": "triggerl_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11237,8 +11237,8 @@
 					"gamepad": "triggerr_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11260,8 +11260,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11283,8 +11283,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11306,8 +11306,8 @@
 					"mouse": "mwheel_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11329,8 +11329,8 @@
 					"mouse": "mwheel_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11353,8 +11353,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11377,8 +11377,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11402,8 +11402,8 @@
 					"gamepad": "triggerr_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11425,8 +11425,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11448,8 +11448,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11471,8 +11471,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11494,8 +11494,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11517,8 +11517,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11541,8 +11541,8 @@
 					"gamepad": "thumbl_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11565,8 +11565,8 @@
 					"gamepad": "thumbl_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11589,8 +11589,8 @@
 					"gamepad": "thumbl_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11613,8 +11613,8 @@
 					"gamepad": "thumbl_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11637,8 +11637,8 @@
 					"gamepad": "thumbr_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11661,8 +11661,8 @@
 					"gamepad": "thumbr_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11685,8 +11685,8 @@
 					"gamepad": "thumbr_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11709,8 +11709,8 @@
 					"gamepad": "thumbr_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11732,8 +11732,8 @@
 					"keyboard": "lctrl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11756,8 +11756,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11782,7 +11782,7 @@
 			"labelLocal": "Stop Watch"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -11801,8 +11801,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11831,8 +11831,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11859,7 +11859,7 @@
 			"categoryLocal": "ON FOOT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -11877,8 +11877,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11906,8 +11906,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11935,8 +11935,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11964,8 +11964,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -11990,8 +11990,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12016,8 +12016,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12046,8 +12046,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12076,8 +12076,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12106,8 +12106,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12136,8 +12136,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12165,8 +12165,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12193,8 +12193,8 @@
 					"keyboard": "lctrl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12221,8 +12221,8 @@
 					"gamepad": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12249,8 +12249,8 @@
 					"gamepad": "b"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12278,8 +12278,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12308,8 +12308,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12338,8 +12338,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12368,8 +12368,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12398,8 +12398,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12422,8 +12422,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12452,8 +12452,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12483,8 +12483,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12514,8 +12514,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12545,8 +12545,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12576,8 +12576,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12607,8 +12607,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12638,8 +12638,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12669,8 +12669,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12697,8 +12697,8 @@
 					"keyboard": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12725,8 +12725,8 @@
 					"keyboard": "d"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12753,8 +12753,8 @@
 					"keyboard": "s"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12782,8 +12782,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12813,8 +12813,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12844,8 +12844,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12873,8 +12873,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12904,8 +12904,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12935,8 +12935,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12966,8 +12966,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -12997,8 +12997,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13028,8 +13028,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13058,8 +13058,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13088,8 +13088,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13118,8 +13118,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13148,8 +13148,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13178,8 +13178,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13208,8 +13208,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13236,8 +13236,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13264,8 +13264,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13292,8 +13292,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13320,8 +13320,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13348,8 +13348,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13378,8 +13378,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13403,8 +13403,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13428,8 +13428,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13458,8 +13458,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13488,8 +13488,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13518,8 +13518,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13548,8 +13548,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13578,8 +13578,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13608,8 +13608,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13638,8 +13638,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13667,8 +13667,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13697,8 +13697,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13727,8 +13727,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13757,8 +13757,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13787,8 +13787,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13817,8 +13817,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13847,8 +13847,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13878,8 +13878,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13909,8 +13909,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13934,8 +13934,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13959,8 +13959,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -13984,8 +13984,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14014,8 +14014,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14044,8 +14044,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14069,8 +14069,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14099,8 +14099,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14129,8 +14129,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14159,8 +14159,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14183,8 +14183,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14207,8 +14207,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14237,8 +14237,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14262,8 +14262,8 @@
 					"gamepad": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14287,8 +14287,8 @@
 					"gamepad": "b"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14317,8 +14317,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14341,8 +14341,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14371,8 +14371,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14394,8 +14394,8 @@
 					"keyboard": "up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14417,8 +14417,8 @@
 					"keyboard": "down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14444,8 +14444,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14467,8 +14467,8 @@
 					"keyboard": "HMD_Yaw"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14490,8 +14490,8 @@
 					"keyboard": "HMD_Pitch"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14513,8 +14513,8 @@
 					"keyboard": "HMD_Roll"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14541,8 +14541,8 @@
 					"keyboard": "f1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14571,8 +14571,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14601,8 +14601,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14625,8 +14625,8 @@
 					"gamepad": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14649,8 +14649,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14674,8 +14674,8 @@
 					"gamepad": "dpad_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14699,8 +14699,8 @@
 					"gamepad": "dpad_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14724,8 +14724,8 @@
 					"gamepad": "triggerl_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14749,8 +14749,8 @@
 					"gamepad": "triggerr_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14772,8 +14772,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14795,8 +14795,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14822,8 +14822,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14852,8 +14852,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14883,8 +14883,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14907,8 +14907,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14932,8 +14932,8 @@
 					"gamepad": "thumbr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14957,8 +14957,8 @@
 					"gamepad": "thumbl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -14981,8 +14981,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15005,8 +15005,8 @@
 					"gamepad": "triggerl_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15029,8 +15029,8 @@
 					"gamepad": "triggerr_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15052,8 +15052,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15075,8 +15075,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15098,8 +15098,8 @@
 					"mouse": "mwheel_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15121,8 +15121,8 @@
 					"mouse": "mwheel_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15145,8 +15145,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15169,8 +15169,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15194,8 +15194,8 @@
 					"gamepad": "triggerr_btn"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15217,8 +15217,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15240,8 +15240,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15263,8 +15263,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15286,8 +15286,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15309,8 +15309,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15333,8 +15333,8 @@
 					"gamepad": "thumbl_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15357,8 +15357,8 @@
 					"gamepad": "thumbl_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15381,8 +15381,8 @@
 					"gamepad": "thumbl_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15405,8 +15405,8 @@
 					"gamepad": "thumbl_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15429,8 +15429,8 @@
 					"gamepad": "thumbr_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15453,8 +15453,8 @@
 					"gamepad": "thumbr_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15477,8 +15477,8 @@
 					"gamepad": "thumbr_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15501,8 +15501,8 @@
 					"gamepad": "thumbr_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15524,8 +15524,8 @@
 					"keyboard": "lctrl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15548,8 +15548,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15579,8 +15579,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15608,8 +15608,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15638,8 +15638,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15663,8 +15663,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15688,8 +15688,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15713,8 +15713,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15738,8 +15738,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15763,8 +15763,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15788,8 +15788,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15813,8 +15813,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15838,8 +15838,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15866,7 +15866,7 @@
 			"categoryLocal": "ON FOOT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -15883,8 +15883,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15911,8 +15911,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15937,7 +15937,7 @@
 			"categoryRaw": ""
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -15953,8 +15953,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -15980,8 +15980,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16007,8 +16007,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16034,8 +16034,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16061,8 +16061,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16088,8 +16088,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16113,7 +16113,7 @@
 			"categoryRaw": ""
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -16126,8 +16126,8 @@
 					"keyboard": "rshift"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16150,8 +16150,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16174,8 +16174,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16198,8 +16198,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16222,8 +16222,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16245,8 +16245,8 @@
 					"keyboard": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16268,8 +16268,8 @@
 					"keyboard": "h"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16291,8 +16291,8 @@
 					"mouse": "mouse3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16314,8 +16314,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16337,8 +16337,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16360,8 +16360,8 @@
 					"keyboard": "w"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16383,8 +16383,8 @@
 					"keyboard": "s"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16406,8 +16406,8 @@
 					"keyboard": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16429,8 +16429,8 @@
 					"keyboard": "d"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16452,8 +16452,8 @@
 					"mouse": "mwheel_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16475,8 +16475,8 @@
 					"mouse": "mwheel_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16499,8 +16499,8 @@
 					"keyboard": "f"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16523,8 +16523,8 @@
 					"keyboard": "v"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16547,8 +16547,8 @@
 					"keyboard": "q"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16571,8 +16571,8 @@
 					"keyboard": "r"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16595,8 +16595,8 @@
 					"keyboard": "e"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16619,8 +16619,8 @@
 					"keyboard": "i"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16647,7 +16647,7 @@
 			"categoryLocal": "ON FOOT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -16666,8 +16666,8 @@
 					"joystick": "button3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16696,8 +16696,8 @@
 					"joystick": "button4"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16722,8 +16722,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16748,8 +16748,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16772,8 +16772,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16798,8 +16798,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16824,8 +16824,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16849,8 +16849,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16877,7 +16877,7 @@
 			"categoryLocal": "ON FOOT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -16896,8 +16896,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16924,7 +16924,7 @@
 			"categoryLocal": "E.V.A."
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -16943,8 +16943,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -16973,8 +16973,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17003,8 +17003,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17032,8 +17032,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17062,8 +17062,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17092,8 +17092,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17122,8 +17122,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17151,8 +17151,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17181,8 +17181,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17211,8 +17211,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17241,8 +17241,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17272,8 +17272,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17303,8 +17303,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17334,8 +17334,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17365,8 +17365,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17396,8 +17396,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17427,8 +17427,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17458,8 +17458,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17489,8 +17489,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17520,8 +17520,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17550,8 +17550,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17580,8 +17580,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17610,8 +17610,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17638,7 +17638,7 @@
 			"categoryLocal": "@ui_CCEVAZGT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -17657,8 +17657,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17687,8 +17687,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17717,8 +17717,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17747,8 +17747,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17775,7 +17775,7 @@
 			"categoryLocal": "Vehicle"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -17794,8 +17794,8 @@
 					"joystick": "button8"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17824,8 +17824,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17848,8 +17848,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17879,8 +17879,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17910,8 +17910,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -17939,8 +17939,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17968,8 +17968,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -17998,8 +17998,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18028,8 +18028,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18058,8 +18058,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18082,8 +18082,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18113,8 +18113,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18144,8 +18144,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18175,8 +18175,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18198,8 +18198,8 @@
 					"keyboard": "HMD_Yaw"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18221,8 +18221,8 @@
 					"keyboard": "HMD_Pitch"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18244,8 +18244,8 @@
 					"keyboard": "HMD_Roll"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18272,8 +18272,8 @@
 					"keyboard": "f1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18302,8 +18302,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18332,8 +18332,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18362,8 +18362,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18392,8 +18392,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18422,8 +18422,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18452,8 +18452,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18482,8 +18482,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18512,8 +18512,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18542,8 +18542,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18572,8 +18572,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18601,8 +18601,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18631,8 +18631,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18659,7 +18659,7 @@
 			"categoryLocal": "Vehicle"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -18679,8 +18679,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -18710,8 +18710,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -18740,8 +18740,8 @@
 					"joystick": "slider1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18770,8 +18770,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18800,8 +18800,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18830,8 +18830,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18859,8 +18859,8 @@
 					"mouse": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -18889,8 +18889,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18919,8 +18919,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18949,8 +18949,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -18978,8 +18978,8 @@
 					"mouse": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19008,8 +19008,8 @@
 					"joystick": "button7"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19039,8 +19039,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19069,8 +19069,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19099,8 +19099,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19130,8 +19130,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19160,8 +19160,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19190,8 +19190,8 @@
 					"joystick": "button8"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19220,8 +19220,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19250,8 +19250,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19274,7 +19274,7 @@
 			"version": 23
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -19286,8 +19286,8 @@
 					"keyboard": "f9"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19309,8 +19309,8 @@
 					"keyboard": "pause"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19332,8 +19332,8 @@
 					"keyboard": "f11"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19355,8 +19355,8 @@
 					"keyboard": "np_divide"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19378,8 +19378,8 @@
 					"keyboard": "f10"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19401,8 +19401,8 @@
 					"keyboard": "np_multiply"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19424,8 +19424,8 @@
 					"keyboard": "np_period"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19447,8 +19447,8 @@
 					"keyboard": "end"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19470,8 +19470,8 @@
 					"keyboard": "home"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19494,7 +19494,7 @@
 			"version": 2
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -19507,8 +19507,8 @@
 					"gamepad": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19531,8 +19531,8 @@
 					"gamepad": "b"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19555,8 +19555,8 @@
 					"gamepad": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19579,8 +19579,8 @@
 					"gamepad": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19607,7 +19607,7 @@
 			"categoryLocal": "Electronic Access - Spectator"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": true,
 			"gamepadVisible": null,
 			"joystickVisible": true
 		},
@@ -19627,8 +19627,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19658,8 +19658,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19688,8 +19688,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19718,8 +19718,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19749,8 +19749,8 @@
 					"joystick": "hat1_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19780,8 +19780,8 @@
 					"joystick": "hat1_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19811,8 +19811,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19842,8 +19842,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19873,8 +19873,8 @@
 					"joystick": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19904,8 +19904,8 @@
 					"joystick": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": true
 				},
 				"keyboard": {
 					"button": null,
@@ -19934,8 +19934,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19962,8 +19962,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -19992,8 +19992,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20022,8 +20022,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20049,8 +20049,8 @@
 					"gamepad": "thumbl_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20076,8 +20076,8 @@
 					"gamepad": "thumbl_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20103,8 +20103,8 @@
 					"gamepad": "thumbl_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20130,8 +20130,8 @@
 					"gamepad": "thumbl_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20157,8 +20157,8 @@
 					"gamepad": "shoulderl+thumbr_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20184,8 +20184,8 @@
 					"gamepad": "shoulderl+thumbr_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20211,8 +20211,8 @@
 					"gamepad": "thumbl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20238,8 +20238,8 @@
 					"gamepad": "thumbr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20266,8 +20266,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20293,8 +20293,8 @@
 					"gamepad": "shoulderl+thumbl_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20320,8 +20320,8 @@
 					"gamepad": "shoulderl+thumbl_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20349,8 +20349,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20378,8 +20378,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20406,8 +20406,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20434,7 +20434,7 @@
 			"categoryLocal": "Social - General"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -20446,8 +20446,8 @@
 					"keyboard": "np_1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20469,8 +20469,8 @@
 					"keyboard": "np_2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20492,8 +20492,8 @@
 					"keyboard": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20516,8 +20516,8 @@
 					"gamepad": "shoulderl+back"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20539,8 +20539,8 @@
 					"keyboard": "o"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20562,8 +20562,8 @@
 					"keyboard": "F5"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20588,8 +20588,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20618,8 +20618,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20643,8 +20643,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20668,8 +20668,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20698,8 +20698,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20721,8 +20721,8 @@
 					"keyboard": "f3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20744,8 +20744,8 @@
 					"keyboard": "space"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20767,8 +20767,8 @@
 					"keyboard": "lctrl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20790,8 +20790,8 @@
 					"keyboard": "q"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20813,8 +20813,8 @@
 					"keyboard": "e"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20837,8 +20837,8 @@
 					"gamepad": "start"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20860,8 +20860,8 @@
 					"gamepad": "shoulderr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20884,8 +20884,8 @@
 					"gamepad": "b"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20907,8 +20907,8 @@
 					"keyboard": "up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20930,8 +20930,8 @@
 					"keyboard": "down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20953,8 +20953,8 @@
 					"keyboard": "left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20976,8 +20976,8 @@
 					"keyboard": "right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -20999,8 +20999,8 @@
 					"keyboard": "left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21022,8 +21022,8 @@
 					"keyboard": "right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21045,8 +21045,8 @@
 					"gamepad": "shoulderr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21068,8 +21068,8 @@
 					"gamepad": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21092,8 +21092,8 @@
 					"gamepad": "shoulderr"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21117,8 +21117,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21138,8 +21138,8 @@
 				"attributes": {},
 				"defaultBindings": {},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21162,8 +21162,8 @@
 					"joystick": "button2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21187,8 +21187,8 @@
 					"joystick": "button3"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21210,8 +21210,8 @@
 					"keyboard": "space"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21234,8 +21234,8 @@
 					"gamepad": "thumbl"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21258,8 +21258,8 @@
 					"joystick": "button7"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21282,8 +21282,8 @@
 					"joystick": "button4"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21306,8 +21306,8 @@
 					"joystick": "button5"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21330,8 +21330,8 @@
 					"joystick": "button6"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21354,8 +21354,8 @@
 					"joystick": "hat1_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21378,8 +21378,8 @@
 					"joystick": "hat1_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21402,8 +21402,8 @@
 					"joystick": "hat1_left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21426,8 +21426,8 @@
 					"joystick": "hat1_right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21456,8 +21456,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21486,8 +21486,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21515,8 +21515,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21538,8 +21538,8 @@
 					"keyboard": "lctrl+c"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21561,8 +21561,8 @@
 					"keyboard": "lctrl+x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21584,8 +21584,8 @@
 					"keyboard": "lctrl+v"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21608,7 +21608,7 @@
 			"version": 1
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -21618,8 +21618,8 @@
 				"attributes": {},
 				"defaultBindings": {},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21641,8 +21641,8 @@
 					"keyboard": "backspace"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21664,8 +21664,8 @@
 					"keyboard": "up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21687,8 +21687,8 @@
 					"keyboard": "down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21710,8 +21710,8 @@
 					"keyboard": "left"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21733,8 +21733,8 @@
 					"keyboard": "right"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21761,7 +21761,7 @@
 			"categoryLocal": "Social - General"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -21778,8 +21778,8 @@
 					"keyboard": "lbracket"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21806,8 +21806,8 @@
 					"keyboard": "rbracket"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21834,8 +21834,8 @@
 					"keyboard": "rbracket"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21862,7 +21862,7 @@
 			"categoryLocal": "ON FOOT"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -21881,8 +21881,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21911,8 +21911,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21941,8 +21941,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -21971,8 +21971,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22001,8 +22001,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22031,8 +22031,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22061,8 +22061,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22091,8 +22091,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22121,8 +22121,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22151,8 +22151,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22181,8 +22181,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22211,8 +22211,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22241,8 +22241,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22271,8 +22271,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22301,8 +22301,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22331,8 +22331,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22361,8 +22361,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22391,8 +22391,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22421,8 +22421,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22451,8 +22451,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22481,8 +22481,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22511,8 +22511,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22541,8 +22541,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22571,8 +22571,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22601,8 +22601,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22631,8 +22631,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22661,8 +22661,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22691,8 +22691,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22721,8 +22721,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22751,8 +22751,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22781,8 +22781,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22811,8 +22811,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22841,8 +22841,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22871,8 +22871,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22901,8 +22901,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22931,8 +22931,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22961,8 +22961,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -22991,8 +22991,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23021,8 +23021,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23051,8 +23051,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23079,7 +23079,7 @@
 			"categoryLocal": "VOIP, FOIP and Head Tracking"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -23098,8 +23098,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23128,8 +23128,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23158,8 +23158,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23188,8 +23188,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23218,8 +23218,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23248,8 +23248,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23278,8 +23278,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23308,8 +23308,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23338,8 +23338,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23366,7 +23366,7 @@
 			"categoryLocal": "Quick Keys, Interactions, and Inner Thought"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -23381,8 +23381,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23407,8 +23407,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23436,8 +23436,8 @@
 					"joystick": "button6"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23467,8 +23467,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23498,8 +23498,8 @@
 					"joystick": "button1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23529,8 +23529,8 @@
 					"joystick": "button7"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23560,8 +23560,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23591,8 +23591,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23621,8 +23621,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23651,8 +23651,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23681,8 +23681,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23711,8 +23711,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23741,8 +23741,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23769,8 +23769,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23797,8 +23797,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23823,8 +23823,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23850,8 +23850,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23875,8 +23875,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23903,8 +23903,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23931,8 +23931,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23959,8 +23959,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -23987,8 +23987,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24015,8 +24015,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24043,8 +24043,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24071,8 +24071,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24099,8 +24099,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24127,8 +24127,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24155,8 +24155,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24183,8 +24183,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24211,8 +24211,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24239,8 +24239,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24267,8 +24267,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24295,8 +24295,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24323,8 +24323,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24350,8 +24350,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24377,8 +24377,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24404,8 +24404,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24432,8 +24432,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24460,8 +24460,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24488,8 +24488,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24512,7 +24512,7 @@
 			"version": 2
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -24524,8 +24524,8 @@
 					"gamepad": "thumbrx"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24547,8 +24547,8 @@
 					"gamepad": "thumbry"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24570,8 +24570,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24593,8 +24593,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24616,8 +24616,8 @@
 					"gamepad": "thumbly"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24639,8 +24639,8 @@
 					"keyboard": "w"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24662,8 +24662,8 @@
 					"keyboard": "s"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24685,8 +24685,8 @@
 					"gamepad": "thumblx"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24708,8 +24708,8 @@
 					"keyboard": "d"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24731,8 +24731,8 @@
 					"keyboard": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24754,8 +24754,8 @@
 					"gamepad": "shoulderl+thumbry"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24777,8 +24777,8 @@
 					"keyboard": "q"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24800,8 +24800,8 @@
 					"keyboard": "e"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24824,8 +24824,8 @@
 					"gamepad": "dpad_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24848,8 +24848,8 @@
 					"gamepad": "dpad_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24872,8 +24872,8 @@
 					"gamepad": "a"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24896,8 +24896,8 @@
 					"gamepad": "x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24920,8 +24920,8 @@
 					"gamepad": "b"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24944,8 +24944,8 @@
 					"gamepad": "y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -24972,7 +24972,7 @@
 			"categoryLocal": "CAMERA"
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -24991,8 +24991,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25020,8 +25020,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25050,8 +25050,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25080,8 +25080,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25110,8 +25110,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25140,8 +25140,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25170,8 +25170,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25200,8 +25200,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25230,8 +25230,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25260,8 +25260,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25290,8 +25290,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25320,8 +25320,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25350,8 +25350,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25380,8 +25380,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25410,8 +25410,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25440,8 +25440,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25470,8 +25470,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25500,8 +25500,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25530,8 +25530,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25560,8 +25560,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25590,8 +25590,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25620,8 +25620,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25650,8 +25650,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25680,8 +25680,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25710,8 +25710,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25740,8 +25740,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25770,8 +25770,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25800,8 +25800,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25830,8 +25830,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25860,8 +25860,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25890,8 +25890,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25920,8 +25920,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": true,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25944,7 +25944,7 @@
 			"version": 1
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -25956,8 +25956,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -25979,8 +25979,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26002,8 +26002,8 @@
 					"mouse": "mwheel_up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26025,8 +26025,8 @@
 					"mouse": "mwheel_down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26048,8 +26048,8 @@
 					"mouse": "mouse1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26071,8 +26071,8 @@
 					"mouse": "mouse1"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26094,8 +26094,8 @@
 					"keyboard": "lshift"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26117,8 +26117,8 @@
 					"mouse": "mouse2"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26141,8 +26141,8 @@
 					"keyboard": "up"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26165,8 +26165,8 @@
 					"keyboard": "down"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26189,8 +26189,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26213,8 +26213,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26237,8 +26237,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26261,8 +26261,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26285,8 +26285,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26309,8 +26309,8 @@
 					"gamepad": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26333,7 +26333,7 @@
 			"version": 1
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -26346,8 +26346,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26370,8 +26370,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26394,8 +26394,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26418,8 +26418,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26442,8 +26442,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26466,8 +26466,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26490,8 +26490,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26514,8 +26514,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26538,8 +26538,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26562,8 +26562,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26585,8 +26585,8 @@
 					"mouse": "maxis_x"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26608,8 +26608,8 @@
 					"mouse": "maxis_y"
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26632,8 +26632,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26656,8 +26656,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26681,8 +26681,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26706,8 +26706,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26730,8 +26730,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
@@ -26754,7 +26754,7 @@
 			"version": 3
 		},
 		"info": {
-			"mouseKeyboardVisible": null,
+			"mouseKeyboardVisible": false,
 			"gamepadVisible": null,
 			"joystickVisible": false
 		},
@@ -26768,8 +26768,8 @@
 					"joystick": ""
 				},
 				"mouse": {
-					"button": null,
-					"axis": null
+					"button": false,
+					"axis": false
 				},
 				"keyboard": {
 					"button": null,
