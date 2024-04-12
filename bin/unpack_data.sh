@@ -4,7 +4,7 @@
 
 # Remove previous copies of extracted data.
 rm -rf "unp4k/Data/"
-rm -rf "src/lib/data/extracted-files"
+rm -rf "src/lib/data/game-files"
 
 cd unp4k
 
@@ -18,8 +18,8 @@ cd unp4k
 cd ..
 
 # Make a directory where the extracted files will be copied to for source control.
-mkdir -p "src/lib/data/extracted-files"
+mkdir -p "src/lib/data/game-files"
 
 # Copy the extracted and decoded files to a tracked folder.
-cp "unp4k/Data/Libs/Config/defaultProfile.xml" "src/lib/data/extracted-files/defaultProfile.xml"
-cp "unp4k/Data/Localization/english/global.ini" "src/lib/data/extracted-files/global.ini"
+cp "unp4k/Data/Libs/Config/defaultProfile.xml" "src/lib/data/game-files/defaultProfile.xml"
+cp "unp4k/Data/Localization/english/global.ini" "src/lib/data/game-files/global.ini"
