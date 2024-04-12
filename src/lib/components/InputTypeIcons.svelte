@@ -2,7 +2,6 @@
 	import axesIcon from '$lib/assets/images/axes.svg';
 	import buttonIcon from '$lib/assets/images/button.svg';
 	import unknownIcon from '$lib/assets/images/unknown.svg';
-	import type { InputInfo } from '$lib/data/json-builder';
 
 	export let deviceInfo: InputInfo;
 </script>

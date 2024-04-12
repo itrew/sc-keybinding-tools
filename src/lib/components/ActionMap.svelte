@@ -1,72 +1,35 @@
 <script lang="ts">
-	import InputTypeIcons from '$lib/components/InputTypeIcons.svelte';
-	import type { ActionMapData } from '$lib/data/json-builder';
+	import DeviceAction from './DeviceAction.svelte';
 
-	export let actionMap: ActionMapData;
+	export let actionMap: ActionMap;
 
-	const bgColorer = (prop: boolean | null) => {
-		return prop ? 'bg-green-500' : prop === null ? 'bg-slate-100' : 'bg-red-300';
-	};
+	let label: string = actionMap.attributes.labelLocal || actionMap.name;
+	let actionCount: number = actionMap.actions.length;
+
+	let bindable: boolean | null = actionMap.info.mouseKeyboardVisible || actionMap.info.gamepadVisible || actionMap.info.joystickVisible;
+	let backgroundColor = bindable ? 'bg-green-500' : bindable === false ? 'bg-red-300' :'bg-slate-100';
 </script>
 
 <div class="w-full overflow-hidden rounded-lg border">
-	<div class="w-full {bgColorer(actionMap.info.mouseKeyboardVisible)} p-2 font-semibold">
-		{actionMap.attributes.labelLocal || actionMap.name} - {actionMap.attributes.categoryLocal ||
-			actionMap.attributes.categoryRaw}  ({actionMap.actions.length})
+	<div class="w-full p-2 flex justify-between align-bottom {backgroundColor}">
+		<div class="font-semibold">{ label }</div>
+		<div>({ actionCount })</div>
 	</div>
-	<div class="grid grid-cols-6 p-2 grid-rows-{actionMap.actions.length + 1}">
-		<div class="col-start-3 border-b border-b-black">Mouse</div>
-		<div class="col-start-4 border-b border-b-black">Keyboard</div>
-		<div class="col-start-5 border-b border-b-black">Gamepad</div>
-		<div class="col-start-6 border-b border-b-black">Joystick</div>
-		{#each actionMap.actions as action, index}
+	<div class="grid grid-cols-5 p-2">
+		<div class="col-span-2 col-start-1 border-b border-b-black mb-2">Action</div>
+		<div class="col-start-3 border-b border-b-black mb-2">Mouse</div>
+		<div class="col-start-4 border-b border-b-black mb-2">Keyboard</div>
+		<div class="col-start-5 border-b border-b-black mb-2">Joystick</div>
+		{#each actionMap.actions as action}
 			<div
-				class="col-span-2 col-start-1 row-start-{index +
-					2} m-0.5 flex select-none justify-between px-2 py-0.5"
+				class="col-span-2 col-start-1 m-0.5 px-2 py-0.5 {action.attributes.labelLocal ? '' : 'font-mono'}"
 				title={action.name}
 			>
 				{action.attributes.labelLocal || action.name}
 			</div>
-			<div
-				class="col-start-3 {bgColorer(
-					action.mouse.bindable,
-				)} m-0.5 flex justify-between px-2 py-0.5"
-			>
-				{#if action.mouse.bindable !== false}
-					<InputTypeIcons deviceInfo={action.mouse}/>
-				{/if}
-				{action.defaultBindings.mouse || ''}
-			</div>
-			<div
-				class="col-start-4 {bgColorer(
-					action.keyboard.bindable,
-				)} m-0.5 flex justify-between px-2 py-0.5"
-			>
-				{#if action.keyboard.bindable !== false}
-					<InputTypeIcons deviceInfo={action.keyboard}/>
-				{/if}
-				{action.defaultBindings.keyboard || ''}
-			</div>
-			<div
-				class="col-start-5 {bgColorer(
-					action.gamepad.bindable,
-				)} m-0.5 flex justify-between px-2 py-0.5"
-			>
-				{#if action.gamepad.bindable !== false}
-					<InputTypeIcons deviceInfo={action.gamepad}/>
-				{/if}
-				{action.defaultBindings.gamepad || ''}
-			</div>
-			<div
-				class="col-start-6 {bgColorer(
-					action.joystick.bindable,
-				)} m-0.5 flex justify-between px-2 py-0.5"
-			>
-				{#if action.joystick.bindable !== false}
-					<InputTypeIcons deviceInfo={action.joystick}/>
-				{/if}
-				{action.defaultBindings.joystick || ''}
-			</div>
+			<DeviceAction device="mouse" { action }/>
+			<DeviceAction device="keyboard" { action }/>
+			<DeviceAction device="joystick" { action }/>
 		{/each}
 	</div>
 </div>
