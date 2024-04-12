@@ -10,23 +10,32 @@
 			case 'mouse':
 				columnClass = 'col-start-3';
 				break;
-			case "keyboard":
+			case 'keyboard':
 				columnClass = 'col-start-4';
 				break;
-			case "joystick":
+			case 'joystick':
 				columnClass = 'col-start-5';
 				break;
 		}
 	}
 
 	let inputInfo = action[device];
-	let bindable: boolean | null = inputInfo.button || inputInfo.axis ? true : inputInfo.button === false && inputInfo.axis === false ? false : null;
-	let backgroundColor = bindable ? 'bg-green-500' : bindable === false ? 'bg-red-300' :'bg-slate-100';
+	let bindable: boolean | null =
+		inputInfo.button || inputInfo.axis
+			? true
+			: inputInfo.button === false && inputInfo.axis === false
+				? false
+				: null;
+	let backgroundColor = bindable
+		? 'bg-green-500'
+		: bindable === false
+			? 'bg-red-300'
+			: 'bg-slate-100';
 </script>
 
-<div class="m-0.5 px-2 py-0.5 flex justify-between {columnClass} {backgroundColor}">
+<div class="m-0.5 flex justify-between px-2 py-0.5 {columnClass} {backgroundColor}">
 	<InputTypeIcons deviceInfo={inputInfo} />
 	<span>
-		{ action.defaultBindings[device] || '' }
+		{action.defaultBindings[device] || ''}
 	</span>
 </div>

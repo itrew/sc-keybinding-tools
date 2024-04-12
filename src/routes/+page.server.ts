@@ -6,7 +6,7 @@ const data: ActionMap[] = actionData;
 data.forEach((am) => {
 	am.actions.forEach((a) => {
 		a.keyboard.axis = false;
-	})
+	});
 });
 
 export const load = async () => {
