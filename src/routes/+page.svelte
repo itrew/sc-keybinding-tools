@@ -4,11 +4,13 @@
 
 	export let data;
 
-	let actionMaps = [...data.actionData].sort((a, b) => +isActionMapBindable(b) - +isActionMapBindable(a));
+	let actionMaps = [...data.actionData].sort(
+		(a, b) => +isActionMapBindable(b) - +isActionMapBindable(a),
+	);
 </script>
 
 <div class="mx-32 mt-4">
 	{#each actionMaps as actionMap}
-		<ActionMap actionMap={actionMap} bindable={isActionMapBindable(actionMap)} />
+		<ActionMap {actionMap} bindable={isActionMapBindable(actionMap)} />
 	{/each}
 </div>

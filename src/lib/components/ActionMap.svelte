@@ -11,9 +11,11 @@
 </script>
 
 <div
-	class="mb-4 bg-surface-1 overflow-hidden border border-solid rounded-lg {bindable ? 'border-base border-opacity-10' : 'border-error border-opacity-50 opacity-70'}"
+	class="mb-4 overflow-hidden rounded-lg border border-solid bg-surface-1 {bindable
+		? 'border-base border-opacity-10'
+		: 'border-error border-opacity-50 opacity-70'}"
 >
-	<div class="p-2 bg-surface-2 flex justify-between items-center">
+	<div class="flex items-center justify-between bg-surface-2 p-2">
 		<div class="text-lg font-semibold text-base-emphasized" title={actionMap.name}>{label}</div>
 		<div class="text-base-subtle">({actionCount} actions)</div>
 	</div>

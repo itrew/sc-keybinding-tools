@@ -9,5 +9,5 @@ export const isActionBindable = (a: Action): boolean => {
 };
 
 export const isActionMapBindable = (am: ActionMap): boolean => {
-	return am.actions.map(a => isActionBindable(a)).some(x => x);
-}
+	return am.actions.map((a) => isActionBindable(a)).some((x) => x);
+};
