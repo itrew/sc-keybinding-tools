@@ -11,6 +11,6 @@
 
 <div class="mx-32 mt-4">
 	{#each actionMaps as actionMap}
-		<ActionMap {actionMap} bindable={isActionMapBindable(actionMap)} />
+		<ActionMap {actionMap} />
 	{/each}
 </div>
