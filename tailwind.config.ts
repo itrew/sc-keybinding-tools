@@ -1,9 +1,12 @@
 import type { Config } from 'tailwindcss';
+import { colors } from './src/lib/theme/colors';
 
 const config = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
-		extend: {},
+		extend: {
+			colors,
+		},
 	},
 	plugins: [],
 } satisfies Config;
