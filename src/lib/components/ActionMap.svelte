@@ -3,6 +3,8 @@
 	import { slide } from 'svelte/transition';
 	import ActionRow from './ActionRow.svelte';
 	import { isActionBindable } from '$lib/util';
+	import PlusSquareIcon from '$lib/components/icons/PlusSquareIcon.svelte';
+	import MinusSquareIcon from '$lib/components/icons/MinusSquareIcon.svelte';
 
 	export let actionMap: ActionMap;
 
@@ -46,8 +48,17 @@
 				<ActionRow {action} bindable={true} />
 			{/each}
 			{#if nonBindableActions.length > 0}
-				<div use:melt={$trigger} class="col-span-6 p-2 text-xs text-error opacity-70">
-					Actions not mappable in game ({nonBindableActions.length})
+				<div use:melt={$trigger} class="col-span-6 p-2 flex gap-x-2 items-center text-sm text-error opacity-90 cursor-pointer">
+					<span>
+						Actions not mappable in game ({nonBindableActions.length})
+					</span>
+					<span>
+						{#if $open}
+							<MinusSquareIcon size={22}/>
+						{:else}
+							<PlusSquareIcon size={22}/>
+						{/if}
+					</span>
 				</div>
 				{#if $open}
 					<div use:melt={$content} transition:slide class="col-span-6 grid grid-cols-subgrid">

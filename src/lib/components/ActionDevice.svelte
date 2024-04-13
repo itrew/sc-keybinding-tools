@@ -1,7 +1,7 @@
 <script lang="ts">
-	import AxesIcon from '$lib/components/icons/axes.svelte';
-	import ButtonIcon from '$lib/components/icons/button.svelte';
-	import UnknownIcon from '$lib/components/icons/unknown.svelte';
+	import AxesIcon from '$lib/components/icons/AxesIcon.svelte';
+	import ButtonIcon from '$lib/components/icons/ButtonIcon.svelte';
+	import UnknownIcon from '$lib/components/icons/UnknownIcon.svelte';
 	import { isDeviceBindable } from '$lib/util';
 	import { COLOR_PRIMARY } from '../../theme/colors';
 
@@ -28,7 +28,7 @@
 			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="axis" />
 		{/if}
 	</span>
-	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-20' : ''}">
+	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-50' : ''}">
 		{defaultBinding || ''}
 	</div>
 </div>

@@ -11,14 +11,14 @@
 
 <div
 	class="m-0.5 ml-0 flex items-center px-2 py-0.5 font-mono text-base-subtle {!bindable
-		? 'text-opacity-20'
+		? 'text-opacity-50'
 		: ''}"
 	title={action.name}
 >
 	{@html nameHtml}
 </div>
 <div
-	class="m-0.5 ml-0 flex items-center px-2 py-0.5 text-base {!bindable ? 'text-opacity-20' : ''}"
+	class="m-0.5 ml-0 flex items-center px-2 py-0.5 text-base {!bindable ? 'text-opacity-50' : ''}"
 >
 	{action.attributes.labelLocal || ''}
 </div>

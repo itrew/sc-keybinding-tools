@@ -1,10 +1,11 @@
 <script lang="ts">
-	export let color: string = '#000000';
+	export let color: string = 'currentColor';
+	export let size: number = 24;
 </script>
 
 <svg
-	width="24px"
-	height="24px"
+	width="{size}px"
+	height="{size}px"
 	stroke-width="1.5"
 	viewBox="0 0 24 24"
 	fill="none"
