@@ -1,24 +1,33 @@
 <script lang="ts">
-	import InputTypeIcons from '$lib/components/InputTypeIcons.svelte';
+	import AxesIcon from '$lib/components/icons/axes.svelte';
+	import ButtonIcon from '$lib/components/icons/button.svelte';
+	import UnknownIcon from '$lib/components/icons/unknown.svelte';
+	import { COLOR_PRIMARY } from '../../theme/colors';
 
-	export let device: InputDevice;
-	export let action: Action;
+	export let button: boolean | null;
+	export let axis: boolean | null;
+	export let defaultBinding: string = '';
 
-	let inputInfo = action[device];
-	let bindable: boolean | null =
-		inputInfo.button || inputInfo.axis
-			? true
-			: inputInfo.button === false && inputInfo.axis === false
-				? false
-				: null;
+	let bindable = button || axis ? true : button === false && axis === false ? false : null;
 	let backgroundColor = bindable ? 'bg-surface-2' : '';
 </script>
 
 <div
-	class="m-0.5 px-2 py-1 flex items-center justify-between {backgroundColor} rounded-sm border border-solid border-base border-opacity-5"
+	class="m-0.5 px-2 py-1 flex justify-between items-center border border-solid border-base border-opacity-5 rounded-sm {backgroundColor}"
 >
-	<InputTypeIcons deviceInfo={inputInfo} />
-	<div class="font-mono {!bindable ? 'text-base-subtle line-through' : ''}">
-		{action.defaultBindings[device] || ''}
+	<span class="flex gap-x-1">
+		{#if button}
+			<ButtonIcon color={COLOR_PRIMARY.hex()} />
+		{:else if button === null}
+			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} />
+		{/if}
+		{#if axis}
+			<AxesIcon color={COLOR_PRIMARY.hex()} />
+		{:else if axis === null}
+			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} />
+		{/if}
+	</span>
+	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-20' : ''}">
+		{defaultBinding || ''}
 	</div>
 </div>

@@ -35,9 +35,9 @@
 			<div class="m-0.5 flex items-center px-2 py-0.5">
 				{action.attributes.labelLocal || ''}
 			</div>
-			<DeviceAction device="mouse" {action} />
-			<DeviceAction device="keyboard" {action} />
-			<DeviceAction device="joystick" {action} />
+			<DeviceAction button={action.mouse.button} axis={action.mouse.axis} defaultBinding={action.defaultBindings.mouse} />
+			<DeviceAction button={action.keyboard.button} axis={action.keyboard.axis} defaultBinding={action.defaultBindings.keyboard} />
+			<DeviceAction button={action.joystick.button} axis={action.joystick.axis} defaultBinding={action.defaultBindings.joystick} />
 		{/each}
 	</div>
 </div>
