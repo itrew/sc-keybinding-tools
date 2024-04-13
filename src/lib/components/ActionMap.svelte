@@ -3,14 +3,15 @@
 	import { isActionBindable } from '$lib/util';
 
 	export let actionMap: ActionMap;
+	export let bindable: boolean;
 
 	let label: string = actionMap.attributes.labelLocal || actionMap.name;
 	let actionCount: number = actionMap.actions.length;
-	let actions = actionMap.actions.sort((a, b) => +isActionBindable(b) - +isActionBindable(a));
+	let actions = [...actionMap.actions].sort((a, b) => +isActionBindable(b) - +isActionBindable(a));
 </script>
 
 <div
-	class="mb-4 bg-surface-1 overflow-hidden border border-base border-solid border-opacity-10 rounded-lg"
+	class="mb-4 bg-surface-1 overflow-hidden border border-solid rounded-lg {bindable ? 'border-base border-opacity-10' : 'border-error border-opacity-50 opacity-70'}"
 >
 	<div class="p-2 bg-surface-2 flex justify-between items-center">
 		<div class="text-lg font-semibold text-base-emphasized" title={actionMap.name}>{label}</div>
