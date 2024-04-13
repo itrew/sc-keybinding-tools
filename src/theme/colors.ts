@@ -5,7 +5,7 @@ const COLOR_PRIMARY_S = 60;
 const COLOR_PRIMARY_L = 50;
 
 export const COLOR_PRIMARY = Color({ h: COLOR_PRIMARY_H, s: COLOR_PRIMARY_S, l: COLOR_PRIMARY_L });
-export const COLOR_SECONDARY = Color({ h:14, s: 90, l: 70 });
+export const COLOR_SECONDARY = Color({ h: 14, s: 90, l: 70 });
 
 export const COLOR_SURFACE_0 = Color({ h: COLOR_PRIMARY_H, s: 20, l: 10 });
 export const COLOR_SURFACE_1 = Color({ h: COLOR_PRIMARY_H, s: 25, l: 12 });
