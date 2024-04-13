@@ -4,21 +4,6 @@
 	export let device: InputDevice;
 	export let action: Action;
 
-	let columnClass: string = '';
-	$: {
-		switch (device) {
-			case 'mouse':
-				columnClass = 'col-start-3';
-				break;
-			case 'keyboard':
-				columnClass = 'col-start-4';
-				break;
-			case 'joystick':
-				columnClass = 'col-start-5';
-				break;
-		}
-	}
-
 	let inputInfo = action[device];
 	let bindable: boolean | null =
 		inputInfo.button || inputInfo.axis
@@ -26,16 +11,14 @@
 			: inputInfo.button === false && inputInfo.axis === false
 				? false
 				: null;
-	let backgroundColor = bindable
-		? 'bg-green-500'
-		: bindable === false
-			? 'bg-red-300'
-			: 'bg-slate-100';
+	let backgroundColor = bindable ? 'bg-surface-2' : '';
 </script>
 
-<div class="m-0.5 flex justify-between px-2 py-0.5 {columnClass} {backgroundColor}">
+<div
+	class="m-0.5 flex items-center justify-between rounded-sm px-2 py-0.5 {backgroundColor} border border-solid border-base border-opacity-5"
+>
 	<InputTypeIcons deviceInfo={inputInfo} />
-	<span>
+	<div class="font-mono {!bindable ? 'text-base-subtle line-through' : ''}">
 		{action.defaultBindings[device] || ''}
-	</span>
+	</div>
 </div>

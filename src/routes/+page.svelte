@@ -4,10 +4,8 @@
 	export let data;
 </script>
 
-<div class="m-auto mx-32 mt-4">
+<div class="mx-32 mt-4">
 	{#each data.actionData as am}
-		<div class="mb-4">
-			<ActionMap actionMap={am} />
-		</div>
+		<ActionMap actionMap={am} />
 	{/each}
 </div>
