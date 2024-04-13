@@ -15,7 +15,7 @@
 </script>
 
 <div
-	class="m-0.5 flex items-center justify-between rounded-sm px-2 py-0.5 {backgroundColor} border border-solid border-base border-opacity-5"
+	class="m-0.5 px-2 py-1 flex items-center justify-between {backgroundColor} rounded-sm border border-solid border-base border-opacity-5"
 >
 	<InputTypeIcons deviceInfo={inputInfo} />
 	<div class="font-mono {!bindable ? 'text-base-subtle line-through' : ''}">

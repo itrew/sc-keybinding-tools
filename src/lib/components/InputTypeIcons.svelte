@@ -3,22 +3,20 @@
 	import ButtonIcon from '$lib/assets/images/button.svelte';
 	import UnknownIcon from '$lib/assets/images/unknown.svelte';
 
-	import { colors } from '../../theme/colors';
-
-	let color = colors.primary;
+	import { COLOR_PRIMARY, COLOR_SECONDARY } from '../../theme/colors';
 
 	export let deviceInfo: InputInfo;
 </script>
 
-<span class="my-1 mr-1 flex">
+<span class="flex gap-x-1">
 	{#if deviceInfo.button}
-		<ButtonIcon {color} />
-	{:else if deviceInfo === null}
-		<UnknownIcon {color} />
+		<ButtonIcon color={COLOR_PRIMARY.hex()} />
+	{:else if deviceInfo.button === null}
+		<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} />
 	{/if}
 	{#if deviceInfo.axis}
-		<AxesIcon {color} />
-	{:else if deviceInfo === null}
-		<UnknownIcon {color} />
+		<AxesIcon color={COLOR_PRIMARY.hex()} />
+	{:else if deviceInfo.axis === null}
+		<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} />
 	{/if}
 </span>
