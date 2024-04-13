@@ -1,9 +1,6 @@
 <script lang="ts">
-	import AxesIcon from '$lib/components/icons/AxesIcon.svelte';
-	import ButtonIcon from '$lib/components/icons/ButtonIcon.svelte';
-	import UnknownIcon from '$lib/components/icons/UnknownIcon.svelte';
+	import Icon from '$lib/components/Icon.svelte';
 	import { isDeviceBindable } from '$lib/util';
-	import { COLOR_PRIMARY } from '../../theme/colors';
 
 	export let button: boolean | null;
 	export let axis: boolean | null;
@@ -16,16 +13,16 @@
 </script>
 
 <div class="{classNames} {backgroundColor} ">
-	<span class="flex gap-x-1">
+	<span class="flex gap-x-1 text-primary {!bindable ? 'opacity-60' : ''}">
 		{#if button}
-			<ButtonIcon color={COLOR_PRIMARY.hex()} />
+			<Icon icon="button" />
 		{:else if button === null}
-			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="button" />
+			<Icon icon="unknown-button" />
 		{/if}
 		{#if axis}
-			<AxesIcon color={COLOR_PRIMARY.hex()} />
+			<Icon icon="axis" />
 		{:else if axis === null}
-			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="axis" />
+			<Icon icon="unknown-axis" />
 		{/if}
 	</span>
 	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-50' : ''}">

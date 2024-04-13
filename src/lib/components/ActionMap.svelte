@@ -1,10 +1,9 @@
 <script lang="ts">
+	import Icon from './Icon.svelte';
 	import { createCollapsible, melt } from '@melt-ui/svelte';
 	import { slide } from 'svelte/transition';
 	import ActionRow from './ActionRow.svelte';
 	import { isActionBindable } from '$lib/util';
-	import PlusSquareIcon from '$lib/components/icons/PlusSquareIcon.svelte';
-	import MinusSquareIcon from '$lib/components/icons/MinusSquareIcon.svelte';
 
 	export let actionMap: ActionMap;
 
@@ -57,9 +56,9 @@
 					</span>
 					<span>
 						{#if $open}
-							<MinusSquareIcon size={22} />
+							<Icon icon="minus-square" size={22} />
 						{:else}
-							<PlusSquareIcon size={22} />
+							<Icon icon="plus-square" size={22} />
 						{/if}
 					</span>
 				</div>
