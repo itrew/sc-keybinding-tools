@@ -28,6 +28,8 @@
 		"clean": "rm -rf node_modules && npm install && svelte-kit sync"
 	},
 	"devDependencies": {
+		"@melt-ui/pp": "^0.3.0",
+		"@melt-ui/svelte": "^0.76.3",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
