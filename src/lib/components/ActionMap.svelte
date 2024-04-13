@@ -48,15 +48,18 @@
 				<ActionRow {action} bindable={true} />
 			{/each}
 			{#if nonBindableActions.length > 0}
-				<div use:melt={$trigger} class="col-span-6 p-2 flex gap-x-2 items-center text-sm text-error opacity-90 cursor-pointer">
+				<div
+					use:melt={$trigger}
+					class="col-span-6 flex cursor-pointer items-center gap-x-2 p-2 text-sm text-error opacity-90"
+				>
 					<span>
 						Actions not mappable in game ({nonBindableActions.length})
 					</span>
 					<span>
 						{#if $open}
-							<MinusSquareIcon size={22}/>
+							<MinusSquareIcon size={22} />
 						{:else}
-							<PlusSquareIcon size={22}/>
+							<PlusSquareIcon size={22} />
 						{/if}
 					</span>
 				</div>
