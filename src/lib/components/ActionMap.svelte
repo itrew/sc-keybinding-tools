@@ -19,12 +19,13 @@
 		<div class="text-lg font-semibold text-base-emphasized" title={actionMap.name}>{label}</div>
 		<div class="text-base-subtle">({actionCount} actions)</div>
 	</div>
-	<div class="grid grid-cols-5">
-		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Action</div>
-		<div class="bg-surface-3 p-2 text-xs text-base-subtle">In-Game Label</div>
-		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Mouse</div>
-		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Keyboard</div>
-		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Joystick</div>
+	<div class="grid grid-cols-6 pb-0.5">
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">Action</div>
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">In-Game Label</div>
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">Mouse</div>
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">Keyboard</div>
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">Gamepad</div>
+		<div class="mb-0.5 bg-surface-3 p-2 text-xs text-base-subtle">Joystick</div>
 		{#each actions as action}
 			<ActionRow {action} bindable={isActionBindable(action)} />
 		{/each}

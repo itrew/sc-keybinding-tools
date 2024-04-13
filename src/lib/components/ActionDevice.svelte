@@ -8,14 +8,14 @@
 	export let button: boolean | null;
 	export let axis: boolean | null;
 	export let defaultBinding: string = '';
+	let classNames: string = '';
+	export { classNames as class };
 
 	let bindable = isDeviceBindable({ button, axis });
 	let backgroundColor = bindable ? 'bg-surface-2' : '';
 </script>
 
-<div
-	class="m-0.5 flex items-center justify-between rounded-sm border border-solid border-base border-opacity-5 px-2 py-1 {backgroundColor}"
->
+<div class="{classNames} {backgroundColor} ">
 	<span class="flex gap-x-1">
 		{#if button}
 			<ButtonIcon color={COLOR_PRIMARY.hex()} />
