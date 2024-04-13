@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let color: string = '#000000';
-	export let inputType: "button" | "axis";
+	export let inputType: 'button' | 'axis';
 </script>
 
 <svg
@@ -40,5 +40,7 @@
 		stroke-linecap="round"
 		stroke-linejoin="round"
 	></path>
-	<text x="8.75" y="15.2" fill={color} class="text-[10px]">{ inputType === "button" ? 'B' : 'A' }</text>
+	<text x="8.75" y="15.2" fill={color} class="text-[10px]"
+		>{inputType === 'button' ? 'B' : 'A'}</text
+	>
 </svg>

@@ -20,12 +20,12 @@
 		{#if button}
 			<ButtonIcon color={COLOR_PRIMARY.hex()} />
 		{:else if button === null}
-			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="button"/>
+			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="button" />
 		{/if}
 		{#if axis}
 			<AxesIcon color={COLOR_PRIMARY.hex()} />
 		{:else if axis === null}
-			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="axis"/>
+			<UnknownIcon color={COLOR_PRIMARY.alpha(0.4).hsl().string()} inputType="axis" />
 		{/if}
 	</span>
 	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-20' : ''}">
