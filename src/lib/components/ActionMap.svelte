@@ -34,7 +34,7 @@
 		{/if}
 		<div class="justify-self-end text-base-subtle">({actionCount} actions)</div>
 	</div>
-	<div use:melt={$root} class="grid grid-cols-6">
+	<div use:melt={$root} class="grid grid-cols-[350px_350px_repeat(4,_250px)]">
 		<div class="bg-surface-3 p-2 pl-3 text-xs text-base-subtle">Action</div>
 		<div class="bg-surface-3 p-2 text-xs text-base-subtle">In-Game Label</div>
 		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Mouse</div>

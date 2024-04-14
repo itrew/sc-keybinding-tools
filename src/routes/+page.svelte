@@ -9,7 +9,7 @@
 	);
 </script>
 
-<div class="mx-32 mt-4">
+<div class="mx-auto p-4 max-w-fit min-w-fit">
 	{#each actionMaps as actionMap}
 		<ActionMap {actionMap} />
 	{/each}
