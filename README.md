@@ -1,4 +1,4 @@
-# Star Citizen Control Utility
+# Star Citizen Keybinding Tools
 
 ## Extracting the latest data
 
