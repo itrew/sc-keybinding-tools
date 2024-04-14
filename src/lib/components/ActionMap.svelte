@@ -42,38 +42,32 @@
 		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Gamepad</div>
 		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Joystick</div>
 		<div class="p-1 col-span-6 grid grid-cols-subgrid gap-1">
-			{#if bindable}
-				{#each bindableActions as action}
-					<ActionRow {action} bindable={true} />
-				{/each}
-				{#if nonBindableActions.length > 0}
-					<div
-						use:melt={$trigger}
-						class="col-span-6 flex cursor-pointer items-center gap-x-2 p-2 text-sm text-error opacity-90"
-					>
-						<span>
-							Actions not mappable in game ({nonBindableActions.length})
-						</span>
-						<span>
-							{#if $open}
-								<Icon icon="minus-square" size={22}/>
-							{:else}
-								<Icon icon="plus-square" size={22}/>
-							{/if}
-						</span>
+			{#each bindableActions as action}
+				<ActionRow {action} bindable={true} />
+			{/each}
+			{#if nonBindableActions.length > 0}
+				<div
+					use:melt={$trigger}
+					class="col-span-6 flex cursor-pointer items-center gap-x-2 p-2 text-sm text-error opacity-90"
+				>
+					<span>
+						Actions not mappable in game ({nonBindableActions.length})
+					</span>
+					<span>
+						{#if $open}
+							<Icon icon="minus-square" size={22}/>
+						{:else}
+							<Icon icon="plus-square" size={22}/>
+						{/if}
+					</span>
+				</div>
+				{#if $open}
+					<div use:melt={$content} class="col-span-6 grid grid-cols-subgrid">
+						{#each nonBindableActions as action}
+							<ActionRow {action} bindable={false} />
+						{/each}
 					</div>
-					{#if $open}
-						<div use:melt={$content} class="col-span-6 grid grid-cols-subgrid">
-							{#each nonBindableActions as action}
-								<ActionRow {action} bindable={false} />
-							{/each}
-						</div>
-					{/if}
 				{/if}
-			{:else}
-				{#each nonBindableActions as action}
-					<ActionRow {action} bindable={false} />
-				{/each}
 			{/if}
 		</div>
 	</div>
