@@ -15,7 +15,7 @@ export const COLOR_SURFACE_4 = Color({ h: COLOR_PRIMARY_H, s: 15, l: 25 });
 
 export const COLOR_BASE = Color({ h: COLOR_PRIMARY_H, s: 25, l: 80 });
 export const COLOR_BASE_EMPHASIZED = Color({ h: COLOR_PRIMARY_H, s: 80, l: 95 });
-export const COLOR_BASE_SUBTLE = Color({ h: COLOR_PRIMARY_H, s: 25, l: 65 });
+export const COLOR_BASE_SUBTLE = Color({ h: COLOR_PRIMARY_H, s: 20, l: 50 });
 
 export const COLOR_ERROR = Color({ h: 0, s: 71, l: 62 });
 export const COLOR_WARNING = Color({ h: 45, s: 100, l: 60 });
