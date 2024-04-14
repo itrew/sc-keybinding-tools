@@ -11,7 +11,7 @@
 </script>
 
 <div class="px-2 py-1 flex items-center justify-between rounded-sm border border-solid border-base border-opacity-5 {backgroundColor} ">
-	{#if button !== false && axis !== false}
+	{#if button !== false || axis !== false}
 		<span class="flex gap-x-1 text-primary {!bindable ? 'opacity-60' : ''}">
 			{#if button}
 				<Icon icon="button" />
