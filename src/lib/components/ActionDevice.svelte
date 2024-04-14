@@ -13,19 +13,23 @@
 </script>
 
 <div class="{classNames} {backgroundColor} ">
-	<span class="flex gap-x-1 text-primary {!bindable ? 'opacity-60' : ''}">
-		{#if button}
-			<Icon icon="button" />
-		{:else if button === null}
-			<Icon icon="unknown-button" />
-		{/if}
-		{#if axis}
-			<Icon icon="axis" />
-		{:else if axis === null}
-			<Icon icon="unknown-axis" />
-		{/if}
-	</span>
-	<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-50' : ''}">
-		{defaultBinding || ''}
-	</div>
+	{#if button !== false && axis !== false}
+		<span class="flex gap-x-1 text-primary {!bindable ? 'opacity-60' : ''}">
+			{#if button}
+				<Icon icon="button" />
+			{:else if button === null}
+				<Icon icon="unknown-button" />
+			{/if}
+			{#if axis}
+				<Icon icon="axis" />
+			{:else if axis === null}
+				<Icon icon="unknown-axis" />
+			{/if}
+		</span>
+	{/if}
+	{#if defaultBinding}
+		<div class="font-mono text-base-subtle {!bindable ? 'text-opacity-50' : ''}">
+			{defaultBinding}
+		</div>
+	{/if}
 </div>
