@@ -1,7 +1,6 @@
 <script lang="ts">
 	import Icon from './Icon.svelte';
 	import { createCollapsible, melt } from '@melt-ui/svelte';
-	import { slide } from 'svelte/transition';
 	import ActionRow from './ActionRow.svelte';
 	import { isActionBindable } from '$lib/util';
 
@@ -56,14 +55,14 @@
 					</span>
 					<span>
 						{#if $open}
-							<Icon icon="minus-square" size={22} />
+							<Icon icon="minus-square" size={22}/>
 						{:else}
-							<Icon icon="plus-square" size={22} />
+							<Icon icon="plus-square" size={22}/>
 						{/if}
 					</span>
 				</div>
 				{#if $open}
-					<div use:melt={$content} transition:slide class="col-span-6 grid grid-cols-subgrid">
+					<div use:melt={$content} class="col-span-6 grid grid-cols-subgrid">
 						{#each nonBindableActions as action}
 							<ActionRow {action} bindable={false} />
 						{/each}
