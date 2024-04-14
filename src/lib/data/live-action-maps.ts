@@ -2,8 +2,8 @@ import { loadSavedActionData, writeActionMapData } from './action-map-data';
 import { getLiveGameData } from './parsers/actionmaps.xml-parser';
 
 export const updateActionMapDataFromLiveActionMaps = async (
-	device: InputDevice,
-	type: InputType,
+	device: 'mouse' | 'keyboard' | 'gamepad' | 'joystick',
+	type: 'button' | 'axis',
 ) => {
 	// Load existing data from files.
 	const [actionMapData, liveGameData] = await Promise.all([
@@ -12,7 +12,7 @@ export const updateActionMapDataFromLiveActionMaps = async (
 	]);
 
 	// Process action maps
-	const processActionMap = (actionMap: ActionMap): ActionMap => {
+	const processActionMap = (actionMap: Data.JSON.ActionMap): Data.JSON.ActionMap => {
 		// See if there is a matching action map object in the live game file.
 		const liveActionMapXml = liveGameData.ActionMaps.ActionProfiles.actionmap.find(
 			(a) => a.$_name === actionMap.name,
@@ -35,7 +35,7 @@ export const updateActionMapDataFromLiveActionMaps = async (
 		}
 
 		// Process actions
-		const processAction = (action: Action): Action => {
+		const processAction = (action: Data.JSON.Action): Data.JSON.Action => {
 			// See if there is a matching action object in the live game file.
 			const liveActionXml = liveActionMapXml.action.find((a) => a.$_name === action.name);
 

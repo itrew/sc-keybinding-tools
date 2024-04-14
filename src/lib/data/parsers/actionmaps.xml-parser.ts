@@ -22,6 +22,6 @@ export const getLiveGameData = async () => {
 	const fileContents = await readFile(
 		'Y:/Roberts Space Industries/StarCitizen/LIVE/USER/Client/0/Profiles/default/actionmaps.xml',
 	);
-	const liveGameData: LiveActionMapsXML = parser.parse(fileContents);
+	const liveGameData: Data.XML.Live.ParsedFile = parser.parse(fileContents);
 	return liveGameData;
 };

@@ -2,7 +2,7 @@ import { langLookupUI } from './parsers/global.ini-parser';
 import { defaultProfile } from './parsers/defaultProfile.xml-parser';
 
 // Convert an XML parsed action to a useable object.
-const actionXmlToAction = (actionXml: DefaultActionXML): Action => {
+const actionXmlToAction = (actionXml: Data.XML.Default.Action): Data.JSON.Action => {
 	return {
 		name: actionXml.$_name,
 		attributes: {
@@ -26,7 +26,7 @@ const actionXmlToAction = (actionXml: DefaultActionXML): Action => {
 };
 
 // Convert an XML parsed action map to a useable object.
-const actionMapXmlToActionMap = (actionMapXml: DefaultActionMapXML): ActionMap => {
+const actionMapXmlToActionMap = (actionMapXml: Data.XML.Default.ActionMap): Data.JSON.ActionMap => {
 	return {
 		name: actionMapXml.$_name,
 		attributes: {

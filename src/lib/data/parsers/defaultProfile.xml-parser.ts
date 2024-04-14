@@ -20,4 +20,4 @@ const fileContents = await readFile(
 );
 
 // Parse the xml profile file into an object.
-export const defaultProfile: DefaultProfileXML = parser.parse(fileContents);
+export const defaultProfile: Data.XML.Default.ParsedFile = parser.parse(fileContents);

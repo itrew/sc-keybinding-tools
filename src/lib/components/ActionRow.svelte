@@ -1,7 +1,7 @@
 <script lang="ts">
 	import DeviceAction from '$lib/components/ActionDevice.svelte';
 
-	export let action: Action;
+	export let action: App.Action;
 	export let bindable: boolean;
 
 	let { mouse, keyboard, joystick, gamepad, defaultBindings } = action;

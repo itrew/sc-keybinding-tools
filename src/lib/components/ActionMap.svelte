@@ -4,13 +4,13 @@
 	import ActionRow from './ActionRow.svelte';
 	import { isActionBindable } from '$lib/util';
 
-	export let actionMap: ActionMap;
+	export let actionMap: App.ActionMap;
 
 	let label: string = actionMap.attributes.labelLocal || actionMap.name;
 	let actionCount: number = actionMap.actions.length;
 
-	let bindableActions: Action[] = actionMap.actions.filter((a) => isActionBindable(a));
-	let nonBindableActions: Action[] = actionMap.actions.filter((a) => !isActionBindable(a));
+	let bindableActions = actionMap.actions.filter((a) => isActionBindable(a));
+	let nonBindableActions = actionMap.actions.filter((a) => !isActionBindable(a));
 
 	let bindable: boolean = bindableActions.length > 0;
 
