@@ -3,6 +3,7 @@
 	export let color: string = 'currentColor';
 	export let size: number = 24;
 	export let strokeWidth: number = 1.25;
+	export let opacity: number = 1;
 </script>
 
 <svg
@@ -16,6 +17,7 @@
 	stroke-width={strokeWidth}
 	stroke-linecap="round"
 	stroke-linejoin="round"
+	opacity={opacity}
 >
 	<use href="#{icon}-icon" />
 </svg>
