@@ -8,23 +8,17 @@
 </script>
 
 <div
-	class="px-2 self-center font-mono text-base-subtle overflow-hidden {!bindable
+	class="self-center overflow-hidden px-2 font-mono text-base-subtle {!bindable
 		? 'text-opacity-50'
 		: ''}"
 	title={action.name}
 >
 	{action.name}
 </div>
-<div
-	class="px-2 self-center text-base {!bindable ? 'text-opacity-50' : ''}"
->
+<div class="self-center px-2 text-base {!bindable ? 'text-opacity-50' : ''}">
 	{action.attributes.labelLocal || ''}
 </div>
-<DeviceAction
-	button={mouse.button}
-	axis={mouse.axis}
-	defaultBinding={defaultBindings.mouse}
-/>
+<DeviceAction button={mouse.button} axis={mouse.axis} defaultBinding={defaultBindings.mouse} />
 <DeviceAction
 	button={keyboard.button}
 	axis={keyboard.axis}

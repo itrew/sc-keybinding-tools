@@ -35,13 +35,13 @@
 		<div class="justify-self-end text-base-subtle">({actionCount} actions)</div>
 	</div>
 	<div use:melt={$root} class="grid grid-cols-6">
-		<div class="p-2 pl-3 bg-surface-3 text-xs text-base-subtle">Action</div>
-		<div class="p-2 bg-surface-3 text-xs text-base-subtle">In-Game Label</div>
-		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Mouse</div>
-		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Keyboard</div>
-		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Gamepad</div>
-		<div class="p-2 bg-surface-3 text-xs text-base-subtle">Joystick</div>
-		<div class="p-1 col-span-6 grid grid-cols-subgrid gap-1">
+		<div class="bg-surface-3 p-2 pl-3 text-xs text-base-subtle">Action</div>
+		<div class="bg-surface-3 p-2 text-xs text-base-subtle">In-Game Label</div>
+		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Mouse</div>
+		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Keyboard</div>
+		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Gamepad</div>
+		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Joystick</div>
+		<div class="col-span-6 grid grid-cols-subgrid gap-1 p-1">
 			{#each bindableActions as action}
 				<ActionRow {action} bindable={true} />
 			{/each}
@@ -55,9 +55,9 @@
 					</span>
 					<span>
 						{#if $open}
-							<Icon icon="minus-square" size={22}/>
+							<Icon icon="minus-square" size={22} />
 						{:else}
-							<Icon icon="plus-square" size={22}/>
+							<Icon icon="plus-square" size={22} />
 						{/if}
 					</span>
 				</div>

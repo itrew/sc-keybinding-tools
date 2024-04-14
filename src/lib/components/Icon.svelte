@@ -17,7 +17,7 @@
 	stroke-width={strokeWidth}
 	stroke-linecap="round"
 	stroke-linejoin="round"
-	opacity={opacity}
+	{opacity}
 >
 	<use href="#{icon}-icon" />
 </svg>
