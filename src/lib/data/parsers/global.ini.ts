@@ -16,6 +16,6 @@ fileContents = fileContents.replaceAll(',P=', '=');
 const lang = parse(fileContents) as { [key: string]: string };
 
 // Lookup a localized UI label or description.
-export const langLookupUI = (key: string | undefined): string | undefined => {
+export const languageLookup = (key: string | undefined): string | undefined => {
 	return key ? lang[key.slice(1)] || key : undefined;
 };
