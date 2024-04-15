@@ -10,6 +10,9 @@ const config = {
 	preprocess: sequence([vitePreprocess({}), preprocessMeltUI()]),
 	kit: {
 		adapter: adapter(),
+		alias: {
+			$data: 'src/data',
+		},
 	},
 };
 

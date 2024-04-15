@@ -1,4 +1,4 @@
-import actionData from '$lib/data/processed-files/action-map-data.json';
+import actionData from '$data/processed-files/action-map-data.json';
 
 export const prerender = true;
 
