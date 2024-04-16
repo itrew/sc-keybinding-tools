@@ -1,10 +1,9 @@
 <script lang="ts">
+	import actionData from '$data/processed-files/action-map-data.json';
 	import ActionMap from '$lib/components/ActionMap.svelte';
 	import { isActionMapBindable } from '$lib/util/index.js';
 
-	export let data;
-
-	let actionMaps = [...data.actionData].sort(
+	let actionMaps = [...actionData].sort(
 		(a, b) => +isActionMapBindable(b) - +isActionMapBindable(a),
 	);
 </script>
