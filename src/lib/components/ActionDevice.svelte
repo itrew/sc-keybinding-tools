@@ -1,14 +1,16 @@
 <script lang="ts">
 	import Icon from '$lib/components/Icon.svelte';
-	import { isDeviceBindable } from '$lib/util';
 
-	export let button: boolean | null;
-	export let axis: boolean | null;
+	import type { DeviceInfo } from '$lib/classes/Action';
+
+	export let deviceBindable: boolean | null;
+	export let deviceInfo: DeviceInfo;
 	export let defaultBinding: string = '';
 
-	let bindable = isDeviceBindable({ button, axis });
-	let backgroundColor = bindable ? 'bg-surface-2' : '';
-	let opacity = bindable ? 1 : 0.45;
+	let { button, axis } = deviceInfo;
+
+	let backgroundColor = deviceBindable ? 'bg-surface-2' : '';
+	let opacity = deviceBindable ? 1 : 0.45;
 </script>
 
 <div
@@ -25,7 +27,7 @@
 		<Icon icon="unknown-axis" {opacity} />
 	{/if}
 	{#if defaultBinding}
-		<div class="grow text-right font-mono text-base-subtle {bindable ? '' : 'opacity-45'}">
+		<div class="grow text-right font-mono text-base-subtle {deviceBindable ? '' : 'opacity-45'}">
 			{defaultBinding}
 		</div>
 	{/if}

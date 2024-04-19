@@ -17,6 +17,7 @@
 	"type": "module",
 	"scripts": {
 		"extract": "bash ./bin/unpack_data.sh",
+		"update-data": "node bin/build-json-data",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",

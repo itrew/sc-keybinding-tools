@@ -2,17 +2,18 @@
 	import Icon from './Icon.svelte';
 	import { createCollapsible, melt } from '@melt-ui/svelte';
 	import ActionRow from './ActionRow.svelte';
-	import { isActionBindable } from '$lib/util';
 
-	export let actionMap: App.ActionMap;
+	import type { ActionMap } from '$lib/classes/ActionMap';
+
+	export let actionMap: ActionMap;
 
 	let label: string = actionMap.attributes.labelLocal || actionMap.name;
 	let actionCount: number = actionMap.actions.length;
 
-	let bindableActions = actionMap.actions.filter((a) => isActionBindable(a));
-	let nonBindableActions = actionMap.actions.filter((a) => !isActionBindable(a));
+	let bindableActions = actionMap.actions.filter((a) => a.actionBindable);
+	let nonBindableActions = actionMap.actions.filter((a) => !a.actionBindable);
 
-	let bindable: boolean = bindableActions.length > 0;
+	let bindable = actionMap.actionMapBindable;
 
 	const {
 		elements: { root, content, trigger },
@@ -43,7 +44,7 @@
 		<div class="bg-surface-3 p-2 text-xs text-base-subtle">Joystick</div>
 		<div class="col-span-6 grid grid-cols-subgrid gap-1 p-1">
 			{#each bindableActions as action}
-				<ActionRow {action} bindable={true} />
+				<ActionRow {action} />
 			{/each}
 			{#if nonBindableActions.length > 0}
 				<div
@@ -64,7 +65,7 @@
 				{#if $open}
 					<div use:melt={$content} class="col-span-6 grid grid-cols-subgrid">
 						{#each nonBindableActions as action}
-							<ActionRow {action} bindable={false} />
+							<ActionRow {action} />
 						{/each}
 					</div>
 				{/if}

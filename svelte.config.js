@@ -11,7 +11,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		alias: {
-			$data: 'src/data',
+			$data: 'data',
 		},
 	},
 };

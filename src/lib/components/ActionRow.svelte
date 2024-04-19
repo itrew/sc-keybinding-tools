@@ -1,36 +1,41 @@
 <script lang="ts">
 	import DeviceAction from '$lib/components/ActionDevice.svelte';
 
-	export let action: App.Action;
-	export let bindable: boolean;
+	import type { Action } from '$lib/classes/Action';
 
-	let { mouse, keyboard, joystick, gamepad, defaultBindings } = action;
+	export let action: Action;
+
+	let { actionBindable, defaultBindings } = action;
 </script>
 
 <div
-	class="self-center overflow-hidden px-2 font-mono text-base-subtle {!bindable
+	class="self-center overflow-hidden px-2 font-mono text-base-subtle {!actionBindable
 		? 'text-opacity-50'
 		: ''}"
 	title={action.name}
 >
 	{action.name}
 </div>
-<div class="self-center px-2 text-base {!bindable ? 'text-opacity-50' : ''}">
+<div class="self-center px-2 text-base {!actionBindable ? 'text-opacity-50' : ''}">
 	{action.attributes.labelLocal || ''}
 </div>
-<DeviceAction button={mouse.button} axis={mouse.axis} defaultBinding={defaultBindings.mouse} />
 <DeviceAction
-	button={keyboard.button}
-	axis={keyboard.axis}
+	deviceInfo={action.mouse}
+	deviceBindable={action.mouseBindable}
+	defaultBinding={defaultBindings.mouse}
+/>
+<DeviceAction
+	deviceInfo={action.keyboard}
+	deviceBindable={action.keyboardBindable}
 	defaultBinding={defaultBindings.keyboard}
 />
 <DeviceAction
-	button={gamepad.button}
-	axis={gamepad.axis}
+	deviceInfo={action.gamepad}
+	deviceBindable={action.gamepadBindable}
 	defaultBinding={defaultBindings.gamepad}
 />
 <DeviceAction
-	button={joystick.button}
-	axis={joystick.axis}
+	deviceInfo={action.joystick}
+	deviceBindable={action.joystickBindable}
 	defaultBinding={defaultBindings.joystick}
 />

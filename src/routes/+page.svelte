@@ -1,14 +1,14 @@
 <script lang="ts">
-	import actionData from '$data/processed-files/action-map-data.json';
+	import actionMapData from '$data/action-map-data.json';
 	import ActionMap from '$lib/components/ActionMap.svelte';
-	import { isActionMapBindable } from '$lib/util/index.js';
+	import { ActionMap as ActionMapClass } from '$lib/classes/ActionMap';
 
-	let actionMaps = [...actionData].sort(
-		(a, b) => +isActionMapBindable(b) - +isActionMapBindable(a),
-	);
+	let actionMaps = actionMapData
+		.map((x) => new ActionMapClass(x))
+		.sort((a, b) => +b.actionMapBindable - +a.actionMapBindable);
 </script>
 
-<div class="mx-auto p-4 max-w-fit min-w-fit">
+<div class="mx-auto min-w-fit max-w-fit p-4">
 	{#each actionMaps as actionMap}
 		<ActionMap {actionMap} />
 	{/each}
