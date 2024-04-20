@@ -1,0 +1,245 @@
+<ActionMaps>
+ <ActionProfiles version="1" optionsVersion="2" rebindVersion="2" profileName="default">
+  <options type="keyboard" instance="1" Product="Keyboard  {6F1D2B61-D5A0-11CF-BFC7-444553540000}"/>
+  <options type="gamepad" instance="1" Product="Controller (Gamepad)"/>
+  <options type="joystick" instance="1" Product=" VKBsim Gladiator EVO R    {0200231D-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="2" Product=" VKBsim Gladiator EVO L    {0201231D-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="3"/>
+  <options type="joystick" instance="4"/>
+  <options type="joystick" instance="5"/>
+  <options type="joystick" instance="6"/>
+  <options type="joystick" instance="7"/>
+  <options type="joystick" instance="8"/>
+  <modifiers />
+  <actionmap name="spaceship_view">
+   <action name="v_view_yaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_pitch">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_dynamic_zoom_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_dynamic_zoom_abs">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="spaceship_movement">
+   <action name="v_pitch">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_yaw_left">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_yaw_right">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_yaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_roll_left">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_roll_right">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_roll">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_up">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_down">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_vertical">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_left">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_right">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_lateral">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_forward_abs_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_back_abs_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_longitudinal_abs_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_forward_abs">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_back_abs">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_longitudinal_abs">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_forward_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_back_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_strafe_longitudinal_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_speed_range_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_speed_range_abs">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_accel_range_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_accel_range_abs">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_space_brake">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="spaceship_mining">
+   <action name="v_mining_throttle">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="spaceship_salvage">
+   <action name="v_salvage_beam_spacing_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_salvage_beam_spacing_abs">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="turret_movement">
+   <action name="turret_pitch">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="turret_yaw_left">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="turret_yaw_right">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="turret_yaw">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="turret_advanced">
+   <action name="turret_limiter_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="turret_limiter_abs">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="spaceship_weapons">
+   <action name="v_weapon_convergence_distance_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_weapon_convergence_distance_abs">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="player">
+   <action name="gp_movex">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="gp_movey">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="gp_rotateyaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="gp_rotatepitch">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="prone">
+   <action name="prone_rollleft">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="prone_rollright">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="zero_gravity_eva">
+   <action name="eva_view_yaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="eva_view_pitch">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="eva_roll">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="eva_strafe_vertical">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="eva_strafe_lateral">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="eva_strafe_longitudinal">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="vehicle_general">
+   <action name="v_view_yaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_pitch">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="vehicle_driver">
+   <action name="v_move_forward">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_move_back">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_move">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_yaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_pitch">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_dynamic_zoom_rel">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="v_view_dynamic_zoom_abs">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+  <actionmap name="spectator">
+   <action name="spectate_zoom">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="spectate_rotateyaw_mouse">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="spectate_rotatepitch_mouse">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="spectate_rotateyaw">
+    <rebind input="js1_z"/>
+   </action>
+   <action name="spectate_rotatepitch">
+    <rebind input="js1_z"/>
+   </action>
+  </actionmap>
+ </ActionProfiles>
+</ActionMaps>
