@@ -47,9 +47,9 @@ const actionXmlToActionPojo = (actionXml) => {
 		},
 		defaultBindings: {
 			mouse: actionXml.$_mouse,
-			keyboard: actionXml.$_keyboard,
-			gamepad: actionXml.$_gamepad,
-			joystick: actionXml.$_joystick,
+			keyboard: actionXml.keyboard ? actionXml.keyboard.$_input : actionXml.$_keyboard,
+			gamepad: actionXml.gamepad ? actionXml.gamepad.$_input : actionXml.$_gamepad,
+			joystick: actionXml.joystick ? actionXml.joystick.$_input : actionXml.$_joystick,
 		},
 		mouse: {
 			button: null,

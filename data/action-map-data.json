@@ -330,6 +330,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "backspace",
+					"gamepad": "",
 					"joystick": ""
 				},
 				"mouse": {
@@ -5155,6 +5156,7 @@
 				"defaultBindings": {
 					"mouse": "mouse1",
 					"keyboard": "",
+					"gamepad": "shoulderl+shoulderr",
 					"joystick": ""
 				},
 				"mouse": {
@@ -5185,6 +5187,7 @@
 				"defaultBindings": {
 					"mouse": "mwheel_up",
 					"keyboard": "",
+					"gamepad": "triggerr_btn",
 					"joystick": "button3"
 				},
 				"mouse": {
@@ -5215,6 +5218,7 @@
 				"defaultBindings": {
 					"mouse": "mwheel_down",
 					"keyboard": "",
+					"gamepad": "triggerl_btn",
 					"joystick": "button4"
 				},
 				"mouse": {
@@ -5441,6 +5445,7 @@
 				"defaultBindings": {
 					"mouse": "mouse1",
 					"keyboard": "",
+					"gamepad": "shoulderr",
 					"joystick": "button1"
 				},
 				"mouse": {
@@ -5471,6 +5476,7 @@
 				"defaultBindings": {
 					"mouse": "mouse2",
 					"keyboard": "",
+					"gamepad": "shoulderl+shoulderr",
 					"joystick": "button2"
 				},
 				"mouse": {
@@ -5501,6 +5507,7 @@
 				"defaultBindings": {
 					"mouse": "",
 					"keyboard": "lalt+maxis_z",
+					"gamepad": "triggerr_btn",
 					"joystick": "button3"
 				},
 				"mouse": {
@@ -5531,6 +5538,7 @@
 				"defaultBindings": {
 					"mouse": "",
 					"keyboard": "",
+					"gamepad": "triggerl_btn",
 					"joystick": "button4"
 				},
 				"mouse": {
@@ -5729,6 +5737,7 @@
 				"defaultBindings": {
 					"mouse": "",
 					"keyboard": "lalt+mwheel_up",
+					"gamepad": "shoulderr",
 					"joystick": ""
 				},
 				"mouse": {
@@ -5759,6 +5768,7 @@
 				"defaultBindings": {
 					"mouse": "",
 					"keyboard": "lalt+mwheel_down",
+					"gamepad": "shoulderl",
 					"joystick": ""
 				},
 				"mouse": {
@@ -5789,6 +5799,7 @@
 				"defaultBindings": {
 					"mouse": "mouse1",
 					"keyboard": "",
+					"gamepad": "shoulderr",
 					"joystick": "button1"
 				},
 				"mouse": {
@@ -10229,7 +10240,8 @@
 					"descriptionLocal": "@ui_CIMobiGlasDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "f1"
+					"keyboard": "f1",
+					"gamepad": "shoulderl+back"
 				},
 				"mouse": {
 					"button": true,
@@ -10834,6 +10846,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "f2",
+					"gamepad": "shoulderl+back",
 					"joystick": ""
 				},
 				"mouse": {
@@ -12116,7 +12129,8 @@
 					"descriptionLocal": "@ui_CIFPSStanceCrouchDesc"
 				},
 				"defaultBindings": {
-					"gamepad": "b"
+					"gamepad": "b",
+					"joystick": ""
 				},
 				"mouse": {
 					"button": false,
@@ -12145,6 +12159,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "x",
+					"gamepad": "b",
 					"joystick": ""
 				},
 				"mouse": {
@@ -12564,7 +12579,8 @@
 					"descriptionLocal": "@ui_CIFPSMoveDodgeLeftDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "a"
+					"keyboard": "a",
+					"gamepad": "shoulderl+thumbl_left"
 				},
 				"mouse": {
 					"button": true,
@@ -12592,7 +12608,8 @@
 					"descriptionLocal": "@ui_CIFPSMoveDodgeRightDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "d"
+					"keyboard": "d",
+					"gamepad": "shoulderl+thumbl_right"
 				},
 				"mouse": {
 					"button": true,
@@ -12620,7 +12637,8 @@
 					"descriptionLocal": "@ui_CIFPSMoveDodgeBackDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "s"
+					"keyboard": "s",
+					"gamepad": "shoulderl+thumbl_down"
 				},
 				"mouse": {
 					"button": true,
@@ -13534,6 +13552,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "",
+					"gamepad": "dpad_left",
 					"joystick": ""
 				},
 				"mouse": {
@@ -14408,7 +14427,8 @@
 					"descriptionLocal": "@ui_CIMobiGlasDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "f1"
+					"keyboard": "f1",
+					"gamepad": "shoulderl+back"
 				},
 				"mouse": {
 					"button": true,
@@ -15475,6 +15495,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "f2",
+					"gamepad": "shoulderl+back",
 					"joystick": ""
 				},
 				"mouse": {
@@ -15745,6 +15766,8 @@
 					"descriptionLocal": "@ui_CIFPSProneRollLeftDesc"
 				},
 				"defaultBindings": {
+					"keyboard": "q",
+					"gamepad": "shoulderl+thumbl_left",
 					"joystick": ""
 				},
 				"mouse": {
@@ -15773,6 +15796,8 @@
 					"descriptionLocal": "@ui_CIFPSProneRollRightDesc"
 				},
 				"defaultBindings": {
+					"keyboard": "e",
+					"gamepad": "shoulderl+thumbl_right",
 					"joystick": ""
 				},
 				"mouse": {
@@ -16513,6 +16538,7 @@
 				"defaultBindings": {
 					"mouse": "mwheel_up",
 					"keyboard": "",
+					"gamepad": "shoulderr",
 					"joystick": "button3"
 				},
 				"mouse": {
@@ -16543,6 +16569,7 @@
 				"defaultBindings": {
 					"mouse": "mwheel_down",
 					"keyboard": "",
+					"gamepad": "shoulderl",
 					"joystick": "button4"
 				},
 				"mouse": {
@@ -18099,7 +18126,8 @@
 					"descriptionLocal": "@ui_CIMobiGlasDesc"
 				},
 				"defaultBindings": {
-					"keyboard": "f1"
+					"keyboard": "f1",
+					"gamepad": "shoulderl+back"
 				},
 				"mouse": {
 					"button": true,
@@ -18428,6 +18456,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "f2",
+					"gamepad": "shoulderl+back",
 					"joystick": ""
 				},
 				"mouse": {
@@ -23213,6 +23242,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "f",
+					"gamepad": "shoulderr",
 					"joystick": "button6"
 				},
 				"mouse": {
@@ -23627,6 +23657,7 @@
 				},
 				"defaultBindings": {
 					"keyboard": "i",
+					"gamepad": "dpad_down",
 					"joystick": ""
 				},
 				"mouse": {
